@@ -30,6 +30,9 @@ LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's 
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[knowledge-management]]
 ## Use Cases
 - Build a self-maintaining knowledge base in Obsidian
 - Auto-organize notes with AI

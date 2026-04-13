@@ -36,6 +36,9 @@ Companion to Impeccable — while Impeccable corrects AI slop, this provides pos
 - [[nextlevelbuilder-ui-ux-pro-max-skill]]
 - [[alexpate/awesome-design-systems]]
 
+
+## Concepts
+- [[ui-ux-design]]
 ## Use Cases
 - Drop a DESIGN.md into a project to give the AI agent design constraints
 - Use brand-specific design references (Apple, Stripe, Linear style)

@@ -36,6 +36,9 @@ Session memory is one of the biggest limitations of coding agents. This captures
 - [[topoteretes-cognee]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[agent-memory]]
 ## Use Cases
 - Make Claude remember what it did in previous sessions on the same project
 - Track decisions and their rationale across coding sessions

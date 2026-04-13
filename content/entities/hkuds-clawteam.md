@@ -30,6 +30,10 @@ Agent swarm intelligence. One command produces full automation through coordinat
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[cli-universal]]
+- [[multi-agent-orchestration]]
 ## Use Cases
 - Deploy coordinated agent swarms for complex tasks
 - Automate workflows with multi-agent coordination

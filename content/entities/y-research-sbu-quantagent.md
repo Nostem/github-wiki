@@ -29,5 +29,8 @@ Quantitative trading agent framework. Research project for agent-based quantitat
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[ai-trading]]
 ## Use Cases
 - Research agent-based quantitative trading strategies

@@ -30,6 +30,9 @@ Just talk to your agent — it learns and evolves. Meta-learning agent that adap
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[agent-self-improvement]]
 ## Use Cases
 - Build agents that learn and evolve from conversation
 - Research meta-learning in agent systems

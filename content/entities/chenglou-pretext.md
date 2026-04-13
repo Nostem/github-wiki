@@ -35,6 +35,9 @@ Text measurement is harder than it looks. If you need pixel-perfect text layout,
 - [[anthropics-claude-code]]
 - [[pbakaus-impeccable]]
 
+
+## Concepts
+- [[presentation-markdown]]
 ## Use Cases
 - Build custom text editors with precise layout
 - Implement IDE-like text rendering

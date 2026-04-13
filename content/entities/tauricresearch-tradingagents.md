@@ -36,6 +36,9 @@ Multi-agent debate for trading decisions is a better architecture than single-ag
 - [[666ghj/mirofish]]
 - [[polymarket-agents]]
 
+
+## Concepts
+- [[ai-trading]]
 ## Use Cases
 - Build multi-agent trading systems with specialized roles
 - Use agent debate to stress-test trading ideas before execution

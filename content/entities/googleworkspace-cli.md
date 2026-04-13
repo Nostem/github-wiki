@@ -33,6 +33,9 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[cli-universal]]
 ## Use Cases
 - Manage Google Workspace from the terminal
 - Automate Drive/Gmail/Calendar operations in scripts

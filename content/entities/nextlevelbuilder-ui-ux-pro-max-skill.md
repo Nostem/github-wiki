@@ -36,6 +36,9 @@ A Claude Code / OpenClaw skill that generates production-quality UI from natural
 - [[anthropics-claude-code]] — the coding agent this skill extends
 - [[openclaw-openclaw]] — OpenClaw platform where this also runs
 
+
+## Concepts
+- [[ui-ux-design]]
 ## Use Cases
 - Generate production-ready UI components from descriptions
 - Build UI for projects where you need quality without a designer

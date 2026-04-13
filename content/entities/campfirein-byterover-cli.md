@@ -30,6 +30,9 @@ Portable memory layer for autonomous coding agents. Persistent memory that works
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[agent-memory]]
 ## Use Cases
 - Share memory between different coding agents
 - Maintain project context across agent switches

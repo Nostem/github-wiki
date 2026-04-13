@@ -33,6 +33,9 @@ Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas,
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[knowledge-management]]
 ## Use Cases
 - Let AI agents manage your Obsidian vault
 - Automate note organization and linking

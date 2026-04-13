@@ -34,6 +34,9 @@ Browser automation CLI for AI agents. Fast, Rust-based browser control that agen
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[browser-automation]]
 ## Use Cases
 - Automate web research tasks with AI agents
 - Scrape websites for wiki source material

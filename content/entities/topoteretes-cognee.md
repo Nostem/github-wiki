@@ -35,6 +35,9 @@ Memory is what separates "stateless query" from "persistent agent." Every agent 
 - [[obra-superpowers]] — agent methodology; memory is a core requirement
 - [[shubhamsaboo-awesome-llm-apps]] — LLM app patterns that often need memory
 
+
+## Concepts
+- [[agent-memory]]
 ## Use Cases
 - Give any agent persistent memory across sessions
 - Build RAG pipelines for agent knowledge retrieval

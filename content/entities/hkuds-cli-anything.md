@@ -33,6 +33,9 @@ Making ALL software agent-native via CLI. Provides a universal CLI interface tha
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[cli-universal]]
 ## Use Cases
 - Make legacy GUI tools accessible to AI agents
 - Create CLI wrappers for software that only has GUIs

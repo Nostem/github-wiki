@@ -42,6 +42,9 @@ Self-hostable social media scheduling with real API integrations is rare. The Po
 - [[shubhamsaboo-awesome-llm-apps]] (AI app patterns)
 - [[gitroomhq-postiz-app]] [[obra-superpowers]] (workflow methodology reference)
 
+
+## Concepts
+- [[social-media]]
 ## Use Cases
 - Self-host social media scheduling for personal brand or team without monthly SaaS fees
 - Automate content posting pipelines via N8N workflows triggered by content calendars

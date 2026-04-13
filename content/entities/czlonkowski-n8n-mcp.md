@@ -42,6 +42,9 @@ This bridges the gap between "AI that can describe workflows" and "AI that can a
 - [[gitroomhq-postiz-app]] (Postiz has N8N integration)
 - [[obra-superpowers]] (workflow methodology)
 
+
+## Concepts
+- [[mcp-integrations]]
 ## Use Cases
 - Build n8n workflows conversationally: describe what you want, agent creates and validates it
 - Audit existing n8n instances for leaked secrets and security misconfigurations

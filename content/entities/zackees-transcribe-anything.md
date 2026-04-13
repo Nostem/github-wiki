@@ -31,6 +31,9 @@ Multi-backend whisper app. Blazing fast, Mac-arm optimized, easy install. Input 
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[speech-audio]]
 ## Use Cases
 - Transcribe any audio or video file
 - Process YouTube/video URLs to text

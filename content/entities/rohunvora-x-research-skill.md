@@ -30,6 +30,9 @@ X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread fo
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[social-media]]
 ## Use Cases
 - Research topics on X/Twitter via agent
 - Follow and extract Twitter threads

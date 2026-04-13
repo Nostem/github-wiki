@@ -30,6 +30,9 @@ Make your agents smarter, low-cost, and self-evolving. Framework for agent optim
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[agent-self-improvement]]
 ## Use Cases
 - Optimize agent performance and cost
 - Build self-improving agent systems

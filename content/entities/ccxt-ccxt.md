@@ -37,6 +37,9 @@ The standard library for crypto trading. Our polymarket bot uses similar pattern
 - [[TauricResearch/TradingAgents]]
 - [[666ghj/mirofish]]
 
+
+## Concepts
+- [[ai-trading]]
 ## Use Cases
 - Build trading bots that work across multiple exchanges with one codebase
 - Aggregate order books and prices from multiple exchanges

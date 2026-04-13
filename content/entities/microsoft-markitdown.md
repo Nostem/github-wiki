@@ -35,6 +35,9 @@ Every LLM pipeline eventually needs to convert arbitrary document formats to tex
 - [[anthropics-claude-code]]
 - [[shubhamsaboo-awesome-llm-apps]]
 
+
+## Concepts
+- [[presentation-markdown]]
 ## Use Cases
 - Convert office documents to Markdown for LLM context ingestion
 - Batch-convert PDF research papers to text for wiki source material

@@ -38,6 +38,9 @@ Prediction markets are a proving ground for AI agent reasoning — agents that c
 - [[obra-superpowers]] — agentic methodology for building autonomous agents
 - [[public-apis]] — API reference for financial data integrations
 
+
+## Concepts
+- [[prediction-markets]]
 ## Use Cases
 - Study autonomous agent architecture for real-world financial decisions
 - Build trading agents for other markets (not just Polymarket)

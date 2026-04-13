@@ -56,3 +56,22 @@
 - 0 new repos found
 - 3 unstarred repos noted: f-prompts-chat, openclaw-starter-kit, x-research-skill
 - Total pages: 146 entities + 8 concepts = 154
+
+## [2026-04-13] create | Concept synthesis pass (13 new concepts)
+- Full synthesis across 146 entity pages to identify missing concept clusters
+- New concepts created:
+  - browser-automation — agent-browser, hyperbrowser, discrawl, scrapling
+  - ai-trading — tradingagents, ai-trader, ccxt, vibe-trading, quantagent, nofx
+  - agent-memory — claude-mem, cognee, hindsight, byterover-cli, lossless-claw, obsidian-mind
+  - ui-ux-design — ui-ux-pro-max, impeccable, design-systems, design-md, meigen-mcp
+  - speech-audio — whisper, insanely-fast-whisper, transcribe-anything
+  - presentation-markdown — marp, markitdown, pretext
+  - prediction-markets — prediction-market-analysis, polymarket-agents, mirofish
+  - agent-self-improvement — self-evolution, metaclaw, openspace, autoresearchclaw
+  - mcp-integrations — n8n-mcp, tradingview-mcp, meigen-ai-design-mcp
+  - knowledge-management — second-brain, obsidian-skills, qmd, obsidian-mind, wiki-os
+  - cli-universal — cli-anything, googleworkspace-cli, minimax-cli, clawteam
+  - social-media — postiz-app, x-research-skill, discrawl
+  - agent-orchestration-platforms — flowise, ruflo, paperclip, multica
+- Backlinks added to 50 entity pages
+- Total pages: 146 entities + 21 concepts = 167

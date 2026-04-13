@@ -30,6 +30,10 @@ AI-assisted TradingView chart analysis. Connect Claude Code to your TradingView 
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[mcp-integrations]]
+- [[ai-trading]]
 ## Use Cases
 - Get AI analysis of TradingView charts
 - Automate technical analysis workflows

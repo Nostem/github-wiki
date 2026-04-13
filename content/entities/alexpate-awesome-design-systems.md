@@ -33,6 +33,9 @@ Curated collection of awesome design systems from companies like Shopify, GitHub
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[ui-ux-design]]
 ## Use Cases
 - Reference existing design systems when building your own
 - Compare design system approaches across industries

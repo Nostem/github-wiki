@@ -30,6 +30,10 @@ Turn Claude Code/OpenClaw into your local Lovart. Local AI design tool via MCP.
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[ui-ux-design]]
+- [[mcp-integrations]]
 ## Use Cases
 - Generate designs locally via AI agent
 - Integrate design tools into agent workflows

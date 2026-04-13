@@ -36,6 +36,9 @@ Every LLM produces the same generic UI patterns. Impeccable is the only tool I'v
 - [[nextlevelbuilder-ui-ux-pro-max-skill]] (complementary design skill)
 - [[pbakaus-impeccable]] [[obra-superpowers]] (skill methodology reference)
 
+
+## Concepts
+- [[ui-ux-design]]
 ## Use Cases
 - Audit AI-generated UI code for accessibility violations and anti-patterns before shipping
 - Use /craft for full shape-then-build design workflow with visual iteration

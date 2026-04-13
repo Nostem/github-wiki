@@ -33,6 +33,9 @@ sources: [raw/stars/2026-04-13.md]
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[ai-trading]]
 ## Use Cases
 - Deploy fully autonomous trading agents
 - Research agent-based trading architectures

@@ -30,6 +30,9 @@ Framework for collecting and analyzing prediction market data including Polymark
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[prediction-markets]]
 ## Use Cases
 - Analyze prediction market trends and patterns
 - Collect historical prediction market data for research

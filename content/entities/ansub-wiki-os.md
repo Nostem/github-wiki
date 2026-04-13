@@ -30,6 +30,9 @@ Open-source web app for search, browsing, graphs, and local knowledge exploratio
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[knowledge-management]]
 ## Use Cases
 - Browse personal knowledge bases via web UI
 - Visualize knowledge graph connections

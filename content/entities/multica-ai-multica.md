@@ -31,6 +31,9 @@ Open-source managed agents platform. Turn coding agents into real teammates with
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[agent-orchestration-platforms]]
 ## Use Cases
 - Manage coding agents as team members with proper workflows
 - Automate code review and deployment pipelines

@@ -35,6 +35,9 @@ Swarm intelligence is an interesting alternative to traditional ML for predictio
 - [[TauricResearch/TradingAgents]]
 - [[ccxt/ccxt]]
 
+
+## Concepts
+- [[prediction-markets]]
 ## Use Cases
 - Apply swarm intelligence to stock market prediction
 - Use collective behavior patterns for weather forecasting

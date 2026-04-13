@@ -31,6 +31,10 @@ Fully autonomous and self-evolving research from idea to paper. Chat an idea, ge
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[agent-self-improvement]]
+- [[autonomous-research]]
 ## Use Cases
 - Generate research papers from initial ideas
 - Automate literature review for new topics

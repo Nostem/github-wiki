@@ -34,6 +34,9 @@ Browser automation is a core building block — whether for scraping, testing, o
 - [[d4vinci-scrapling]] — Python web scraping framework
 - [[x-research-skill]] — research skill that could use browser automation
 
+
+## Concepts
+- [[browser-automation]]
 ## Use Cases
 - Build web scrapers for wiki source collection
 - Automate web interactions for research

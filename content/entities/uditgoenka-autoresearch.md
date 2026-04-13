@@ -30,6 +30,10 @@ Claude Autoresearch Skill — autonomous goal-directed iteration for Claude Code
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[agent-self-improvement]]
+- [[autonomous-research]]
 ## Use Cases
 - Research topics autonomously until a goal is met
 - Automate deep research that requires multiple iterations

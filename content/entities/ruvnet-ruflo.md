@@ -34,6 +34,9 @@ Agent orchestration platform for Claude. Deploy intelligent multi-agent workflow
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[agent-orchestration-platforms]]
 ## Use Cases
 - Build multi-agent pipelines for complex tasks
 - Orchestrate agent teams with role-based分工

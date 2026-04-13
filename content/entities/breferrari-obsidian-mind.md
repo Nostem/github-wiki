@@ -30,6 +30,10 @@ An Obsidian vault that gives AI coding agents persistent memory. Works with Clau
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[agent-memory]]
+- [[knowledge-management]]
 ## Use Cases
 - Give coding agents persistent memory through Obsidian vaults
 - Share project context across different agents

@@ -33,6 +33,9 @@ Mini CLI search engine for your docs, knowledge bases, meeting notes. Fast full-
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[knowledge-management]]
 ## Use Cases
 - Search across documentation and meeting notes
 - Find relevant content in large knowledge bases

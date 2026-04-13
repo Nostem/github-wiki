@@ -31,6 +31,9 @@ Markdown Presentation Ecosystem — create slide decks from Markdown. The entran
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[presentation-markdown]]
 ## Use Cases
 - Create presentations from Markdown quickly
 - Version-control slide decks as text files

@@ -36,6 +36,9 @@ Go-to for speech-to-text in personal projects. Reliable, no API cost, runs local
 - [[lyogavin-airllm]] — optimization techniques for running large models locally
 - [[x-research-skill]] — could transcribe audio from video content
 
+
+## Concepts
+- [[speech-audio]]
 ## Use Cases
 - Meeting transcription and summarization
 - Voice command processing for agents

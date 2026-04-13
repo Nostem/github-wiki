@@ -36,6 +36,9 @@ The 'zero-human company' concept is extreme but the orchestration patterns are u
 - [[paperclipai/paperclip]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[agent-orchestration-platforms]]
 ## Use Cases
 - Run autonomous customer support with AI agents handling tickets
 - Orchestrate content creation pipelines across multiple agents

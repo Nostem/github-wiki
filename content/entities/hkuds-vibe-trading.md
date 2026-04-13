@@ -30,6 +30,9 @@ Your personal trading agent. Agent-native trading with autonomous decision makin
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[ai-trading]]
 ## Use Cases
 - Deploy a personal AI trading agent
 - Automate trading decisions with AI

@@ -33,6 +33,9 @@ Optimized Whisper inference for blazing fast speech-to-text. Uses batching, Flas
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[speech-audio]]
 ## Use Cases
 - Transcribe audio files at blazing speed
 - Batch-process large audio datasets

@@ -30,6 +30,9 @@ Lossless Context Management (LCM) plugin for OpenClaw. Manages context windows w
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[agent-memory]]
 ## Use Cases
 - Manage long conversations without losing context
 - Compress context while preserving critical information

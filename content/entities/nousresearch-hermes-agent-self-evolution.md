@@ -30,6 +30,9 @@ Evolutionary self-improvement for Hermes Agent. Optimize skills, prompts, and be
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[agent-self-improvement]]
 ## Use Cases
 - Optimize agent performance through evolution
 - Self-improve agent skills and prompts

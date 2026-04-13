@@ -31,6 +31,9 @@ Personal AI trading assistant. Any market, any model. Pay with USDC, not API key
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[ai-trading]]
 ## Use Cases
 - Access AI trading assistance without managing API keys
 - Decentralized agent services marketplace

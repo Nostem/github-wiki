@@ -30,6 +30,9 @@ Generate text, images, video, speech, and music by MiniMax. CLI for MiniMax AI s
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[cli-universal]]
 ## Use Cases
 - Generate multi-modal content via CLI
 - Access MiniMax AI services from terminal

@@ -4,6 +4,31 @@
 > Read this first to find relevant pages for any query.
 > Last updated: 2026-04-13 | Total pages: 167
 
+## Concepts — 21 concepts
+
+- [[agent-memory]] — Persistent memory systems that let AI agents retain context, learn from past interactions
+- [[agent-orchestration-platforms]] — Visual, managed, and low-code platforms for building, deploying, and coord
+- [[agent-self-improvement]] — Frameworks and techniques for AI agents that optimize their own behavior, evolve
+- [[agent-skills]] — A **skill** is a modular unit of capability that an AI agent can invoke to perfo
+- [[ai-trading]] — Autonomous and agent-assisted systems for financial market analysis, portfolio manag
+- [[autonomous-research]] — AI agents that autonomously conduct research tasks — gathering information, synt
+- [[browser-automation]] — Programmatic control of web browsers for scraping, testing, form filling, and ag
+- [[claude-code-extensions]] — Skills, best practices, and extensions for Claude Code — the ecosystem of tools,
+- [[claude-code-subagents]] — A **subagent** is a specialized Claude Code agent configured for a specific doma
+- [[cli-universal]] — Making existing software agent-accessible through unified command-line interfaces — wr
+- [[coding-agents]] — Autonomous agents specialized for software development tasks — understanding cod
+- [[fine-tuning]] — Tools and platforms for training and fine-tuning open LLMs — making open-source 
+- [[knowledge-management]] — Personal knowledge bases, search engines, and structured information systems for
+- [[mcp-integrations]] — Model Context Protocol (MCP) servers and integrations that give AI agents structu
+- [[multi-agent-orchestration]] — Platforms and frameworks for coordinating multiple AI agents to work together on
+- [[prediction-markets]] — Collective intelligence platforms and AI systems for forecasting events — aggreg
+- [[presentation-markdown]] — Creating presentations, documents, and formatted output from Markdown sources
+- [[social-media]] — Tools for social media research, content management, and platform interaction — fr
+- [[speech-audio]] — Speech recognition (speech-to-text) and audio processing tools — from OpenAI's Wh
+- [[ui-ux-design]] — AI-assisted design systems, visual generation tools, and design quality enforcement
+- [[web-scraping]] — Automated extraction of data from websites — from single pages to full-scale cra
+
+
 ## Entities (Repos) — 146 repos
 
 - [[codecrafters-io-build-your-own-x]] — A massive community-curated collection of step-by-step guides for building techn (487,383 stars)
@@ -152,30 +177,6 @@
 - [[brave-brave-search-skills]] — Official skills for using Brave Search API with AI coding agents. (98 stars)
 - [[esaradev-icarus-plugin]] — Self-memory and replacement models for Hermes agents. Remember your work, train  (54 stars)
 - [[corrob-law-of-one-study]] — Study tool for the Law of One (Ra Material). Organized reading, note-taking, and (9 stars)
-
-## Concepts — 21 concepts
-
-- [[agent-memory]] — Persistent memory systems that let AI agents retain context, learn from past interactions
-- [[agent-orchestration-platforms]] — Visual, managed, and low-code platforms for building, deploying, and coord
-- [[agent-self-improvement]] — Frameworks and techniques for AI agents that optimize their own behavior, evolve
-- [[agent-skills]] — A **skill** is a modular unit of capability that an AI agent can invoke to perfo
-- [[ai-trading]] — Autonomous and agent-assisted systems for financial market analysis, portfolio manag
-- [[autonomous-research]] — AI agents that autonomously conduct research tasks — gathering information, synt
-- [[browser-automation]] — Programmatic control of web browsers for scraping, testing, form filling, and ag
-- [[claude-code-extensions]] — Skills, best practices, and extensions for Claude Code — the ecosystem of tools,
-- [[claude-code-subagents]] — A **subagent** is a specialized Claude Code agent configured for a specific doma
-- [[cli-universal]] — Making existing software agent-accessible through unified command-line interfaces — wr
-- [[coding-agents]] — Autonomous agents specialized for software development tasks — understanding cod
-- [[fine-tuning]] — Tools and platforms for training and fine-tuning open LLMs — making open-source 
-- [[knowledge-management]] — Personal knowledge bases, search engines, and structured information systems for
-- [[mcp-integrations]] — Model Context Protocol (MCP) servers and integrations that give AI agents structu
-- [[multi-agent-orchestration]] — Platforms and frameworks for coordinating multiple AI agents to work together on
-- [[prediction-markets]] — Collective intelligence platforms and AI systems for forecasting events — aggreg
-- [[presentation-markdown]] — Creating presentations, documents, and formatted output from Markdown sources
-- [[social-media]] — Tools for social media research, content management, and platform interaction — fr
-- [[speech-audio]] — Speech recognition (speech-to-text) and audio processing tools — from OpenAI's Wh
-- [[ui-ux-design]] — AI-assisted design systems, visual generation tools, and design quality enforcement
-- [[web-scraping]] — Automated extraction of data from websites — from single pages to full-scale cra
 
 ## Comparisons
 

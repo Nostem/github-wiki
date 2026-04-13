@@ -49,3 +49,10 @@
 - Remaining 57 repos created with descriptions based on GitHub metadata
 - Total wiki now: 146 entities + 8 concepts = 154 pages
 - Index regenerated with all pages sorted by stars
+
+## [2026-04-13] ingest | No new stars
+- Fetched all 143 starred repos via GitHub API
+- Compared against 146 existing entity pages (case-insensitive)
+- 0 new repos found
+- 3 unstarred repos noted: f-prompts-chat, openclaw-starter-kit, x-research-skill
+- Total pages: 146 entities + 8 concepts = 154

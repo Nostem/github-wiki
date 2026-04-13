@@ -39,3 +39,13 @@
 - Pages enriched: pbakaus-impeccable, gitroomhq-postiz-app, qwenlm-qwen-agent, obra-superpowers, czlonkowski-n8n-mcp, codecrafters-io-build-your-own-x, public-apis-public-apis, jaywcjlove-awesome-mac, behisecc-awesome-claude-skills, rohitg00-awesome-claude-code-toolkit, voltagent-awesome-agent-skills, lyogavin-airllm
 - Changes: expanded "What It Does" from generic GitHub taglines to specific technical descriptions; added concrete use cases (5-6 per page); improved Key Features with real capabilities; enriched "Why I Starred It" with personal relevance; added Tech Stack details (license, framework); improved cross-references
 - All 12 pages updated to 2026-04-13 in frontmatter
+
+## [2026-04-13] ingest | Remaining 112 starred repos
+- Fetched all 143 starred repos via GitHub API
+- Compared against 34 existing entity pages — found 112 missing repos
+- Fetched README content for top 55 repos (highest stars)
+- Created 112 new entity pages with specific descriptions from READMEs
+- Top enriched (README-backed): f/prompts.chat, microsoft/markitdown, github/spec-kit, sherlock-project/sherlock, msitarzewski/agency-agents, karpathy/autoresearch, unslothai/unsloth, and 48 more
+- Remaining 57 repos created with descriptions based on GitHub metadata
+- Total wiki now: 146 entities + 8 concepts = 154 pages
+- Index regenerated with all pages sorted by stars

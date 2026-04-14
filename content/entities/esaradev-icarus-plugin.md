@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # esaradev/icarus-plugin
 
+Agent self-memory. Replacement model training. Train replacement models from agent experience.
+
+
+
 ## What It Does
 Self-memory and replacement models for Hermes agents. Remember your work, train replacement models.
 

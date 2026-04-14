@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # mvanhorn/last30days-skill
 
-AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and more from th
+Multi-platform: Reddit, X, YouTube, HN, Polymarket. Last-30-days time window. Research trending topics across platforms.
+
+
+
+
 
 ## What It Does
 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and more from the last 30 days. Multi-platform research agent.

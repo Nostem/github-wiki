@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # f/prompts.chat
 
-Community platform for sharing, discovering, and collecting prompts for ChatGPT, Claude, Gemini, and
+Thousands of curated prompts across categories (writing, coding, business, creative). Multi-model support: ChatGPT, Claude, Gemini, Llama. Find tested prompts for specific tasks before writing from scratch.
+
+
+
+
 
 ## What It Does
 Community platform for sharing, discovering, and collecting prompts for ChatGPT, Claude, Gemini, and other LLMs. Previously known as Awesome ChatGPT Prompts. Now a full web app with prompt collections, voting, and categorization.

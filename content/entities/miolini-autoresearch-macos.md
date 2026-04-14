@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # miolini/autoresearch-macos
 
+macOS optimized. Single-GPU research. Run autonomous research on macOS with Apple Silicon.
+
+
+
+
 ## What It Does
 AI agents running research on single-GPU nanochat training, adopted for macOS. macOS-optimized version of Karpathy's autoresearch.
 

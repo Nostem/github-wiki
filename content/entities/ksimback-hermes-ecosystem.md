@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # ksimback/hermes-ecosystem
 
+Hermes ecosystem map. Visual tool directory. Navigate the Hermes Agent ecosystem visually.
+
+
+
+
 ## What It Does
 Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent.
 

@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # tradesdontlie/tradingview-mcp
 
+TradingView integration via MCP. Chart analysis with AI. Get AI analysis of TradingView charts.
+
+
+
+
 ## What It Does
 AI-assisted TradingView chart analysis. Connect Claude Code to your TradingView charts for technical analysis.
 

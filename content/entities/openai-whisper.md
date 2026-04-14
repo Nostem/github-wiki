@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # openai-whisper
 
-Robust Speech Recognition via Large-Scale Weak Supervision — OpenAI's open-source speech-to-text model.
+Multilingual transcription (100+ languages). Strong noise robustness. Meeting transcription and summarization.
+
+
+
+
 
 ## What It Does
 Whisper is a general-purpose speech recognition model trained on large-scale weakly-supervised audio data. It transcribes audio in multiple languages, handles noisy backgrounds, and works well out of the box. Available as a pip-installable Python package with a fast inference mode.

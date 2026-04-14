@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # RightNow-AI/openfang
 
-Open-source Agent Operating System. Runtime environment for AI agents with memory, tools, scheduling
+Agent runtime with memory and tools. Scheduling and lifecycle management. Deploy production agent workloads on a purpose-built OS.
+
+
+
+
 
 ## What It Does
 Open-source Agent Operating System. Runtime environment for AI agents with memory, tools, scheduling, and inter-agent communication. Written in Rust for performance.

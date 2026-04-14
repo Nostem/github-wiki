@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-08.md]
 
 # polymarket-agents
 
-Open-source framework for building autonomous trading agents that operate on Polymarket prediction markets. Built by the Polymarket team, these agents can monitor markets, analyze conditions, and execute trades based on configurable strategies.
+Python-based agent framework. CLI tool for easy deployment. Study autonomous agent architecture for real-world financial decisions.
+
+
+
 
 ## What It Does
 Provides a Python framework and CLI for deploying autonomous agents on Polymarket. Agents can:

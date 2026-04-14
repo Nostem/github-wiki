@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # opendataloader-project/opendataloader-pdf
 
-PDF parser for AI-ready data. Extracts structured content from PDFs including text, tables, images, 
+Structured PDF extraction (text, tables, images). Layout preservation. Extract tables from PDF reports for analysis.
+
+
+
+
 
 ## What It Does
 PDF parser for AI-ready data. Extracts structured content from PDFs including text, tables, images, and layout. Designed for feeding PDFs into LLM pipelines.

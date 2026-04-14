@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # zach-highley/openclaw-starter-kit
 
+Multi-model fallback chains. Self-healing error recovery. Build fault-tolerant agent pipelines.
+
+
+
 ## What It Does
 The 24-Hour AI Butler — turn OpenClaw into a self-healing, multi-model autonomous system. Starter kit for resilient agent pipelines.
 

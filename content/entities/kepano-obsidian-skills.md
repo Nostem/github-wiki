@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # kepano/obsidian-skills
 
-Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and other Obsidian 
+Obsidian-native agent skills. Markdown, Bases, JSON Canvas support. Let AI agents manage your Obsidian vault.
+
+
+
+
 
 ## What It Does
 Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and other Obsidian features. Created by the Obsidian founder.

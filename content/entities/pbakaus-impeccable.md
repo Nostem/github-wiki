@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # pbakaus-impeccable
 
-The design language that makes your AI harness better at design.
+7 design reference modules covering typography through UX writing. 18 slash commands: /audit, /critique, /polish, /distill, /clarify, /harden, /bolder, /quieter, /o.... Audit AI-generated UI code for accessibility violations and anti-patterns before shipping.
+
+
+
+
 
 ## What It Does
 A design language and skill system that fights "AI slop" — the predictable design mistakes LLMs make (purple gradients, nested cards, poor contrast, bounce easing). Created by Paul Bakaus, it provides 7 domain-specific reference modules (typography, color/contrast, spatial design, motion, interaction, responsive, UX writing) and 18 commands that plug directly into Claude Code, Cursor, Gemini CLI, and other coding agents. Includes a standalone CLI that detects 24 specific anti-patterns without needing an AI harness.

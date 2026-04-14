@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # karpathy/autoresearch
 
-Andrej Karpathy's autonomous research agent. Runs research experiments on single-GPU nanochat traini
+Fully autonomous research loop: hypothesize → experiment → analyze → iterate. Single-GPU optimized (nanochat scale). Run autonomous ML research experiments overnight.
+
+
+
+
 
 ## What It Does
 Andrej Karpathy's autonomous research agent. Runs research experiments on single-GPU nanochat training automatically. Given a research question, it designs experiments, runs training, evaluates results, iterates on findings, and produces a research report — all without human intervention.

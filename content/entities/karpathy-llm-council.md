@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # karpathy/llm-council
 
-LLM Council — multiple LLMs work together to answer your hardest questions. Each model provides its 
+Multi-model collaboration. Perspective diversity. Get diverse perspectives on complex questions.
+
+
+
+
 
 ## What It Does
 LLM Council — multiple LLMs work together to answer your hardest questions. Each model provides its perspective, then a synthesis produces the best answer.

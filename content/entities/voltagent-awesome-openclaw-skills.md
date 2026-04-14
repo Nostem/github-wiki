@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # awesome-openclaw-skills
 
-The awesome collection of OpenClaw skills — 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.
+5,400+ skills catalogued. Categorized by domain and capability. Find existing skills before building new ones.
+
+
+
+
 
 ## What It Does
 A curated, categorized index of OpenClaw skills. If you want to know what capabilities exist for OpenClaw agents, this is where to look. Skills cover everything from browser automation to code execution to data processing.

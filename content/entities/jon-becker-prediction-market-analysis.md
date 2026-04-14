@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # Jon-Becker/prediction-market-analysis
 
+Prediction market data collection. Polymarket integration. Analyze prediction market trends and patterns.
+
+
+
+
 ## What It Does
 Framework for collecting and analyzing prediction market data including Polymarket. Data collection, analysis, and visualization.
 

@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # Minara-AI/skills
 
+AI CFO skills. Financial management. Manage personal finances with AI assistance.
+
+
+
 ## What It Does
 Official Minara Skills — all-in-one skills for making your personal AI CFO.
 

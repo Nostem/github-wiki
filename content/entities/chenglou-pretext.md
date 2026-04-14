@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # chenglou/pretext
 
-Fast, accurate, and comprehensive text measurement and layout engine. Precisely measures text dimens
+Pixel-accurate text measurement. Line break and word wrap calculation. Build custom text editors with precise layout.
+
+
+
+
 
 ## What It Does
 Fast, accurate, and comprehensive text measurement and layout engine. Precisely measures text dimensions, line breaks, and layout constraints for any font and size. Used for building text editors, IDEs, and any UI that needs pixel-perfect text rendering.

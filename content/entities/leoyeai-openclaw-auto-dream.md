@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # LeoYeAI/openclaw-auto-dream
 
+Automatic memory consolidation. Sleep-like memory processing. Consolidate agent memories during idle time.
+
+
+
 ## What It Does
 Automatic memory consolidation for OpenClaw agents. Like sleep for your AI — consolidates and organizes memories.
 

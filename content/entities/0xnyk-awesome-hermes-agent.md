@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # 0xNyk/awesome-hermes-agent
 
+Hermes Agent ecosystem directory. Skills, tools, integrations. Discover Hermes Agent extensions and tools.
+
+
+
+
 ## What It Does
 Curated list of awesome skills, tools, integrations, and resources for Hermes Agent.
 

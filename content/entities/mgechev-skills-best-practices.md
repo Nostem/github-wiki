@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # mgechev/skills-best-practices
 
+Skill writing best practices. LLM-based validation. Write high-quality agent skills following best practices.
+
+
+
 ## What It Does
 Write professional-grade skills for agents, validate them using LLMs, and maintain quality. Best practices and validation tools for skill development.
 

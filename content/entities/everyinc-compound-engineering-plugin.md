@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # EveryInc/compound-engineering-plugin
 
-Compound Engineering plugin for Claude Code, Codex, and more. Enables chaining multiple engineering 
+Compound workflow chaining. Shared context across tasks. Chain multiple coding tasks into a single workflow.
+
+
+
+
 
 ## What It Does
 Compound Engineering plugin for Claude Code, Codex, and more. Enables chaining multiple engineering tasks into compound workflows with shared context.

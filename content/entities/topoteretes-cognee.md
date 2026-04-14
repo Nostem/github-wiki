@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-08.md]
 
 # topoteretes-cognee
 
-Knowledge Engine for AI Agent Memory — lets you build persistent, queryable memory for AI agents in 6 lines of code. Gives agents the ability to recall relevant information across sessions without re-reading everything.
+6-line setup for basic memory. Multiple storage backends (vector DB, graph, etc.). Give any agent persistent memory across sessions.
+
+
+
 
 ## What It Does
 Cognee is a memory layer for AI agents. Instead of stuffing all context into every prompt (expensive and limited), agents store structured knowledge in cognee and retrieve only what's relevant to the current task. Supports multiple storage backends and retrieval strategies.

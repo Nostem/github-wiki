@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # Panniantong/Agent-Reach
 
-Give your AI agent eyes to see the entire internet. Read and search Twitter, Reddit, YouTube, GitHub
+Multi-channel: Twitter, Reddit, YouTube, GitHub. Search and read across platforms. Research topics across multiple web platforms.
+
+
+
+
 
 ## What It Does
 Give your AI agent eyes to see the entire internet. Read and search Twitter, Reddit, YouTube, GitHub, and more. Multi-channel web access for agents.

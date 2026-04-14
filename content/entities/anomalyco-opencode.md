@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-08.md]
 
 # anomalyco-opencode
 
-Open-source AI coding agent from the Cursor team — the open-source counterpart to Cursor's proprietary coding agent. Supports code editing, multi-file changes, terminal access, and git operations via a clean interface.
+Open-source (Apache 2.0). Multi-file code editing and navigation. Self-host a coding agent on your own infrastructure.
+
+
+
 
 ## What It Does
 An open-source coding agent that you can run locally, self-host, or integrate into your own tools. Similar to Claude Code but open-source with a focus on extensibility. Works with projects in any language, handles multi-file coordinated changes, and runs commands in the terminal.

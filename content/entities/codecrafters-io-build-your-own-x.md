@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # codecrafters-io-build-your-own-x
 
-Master programming by recreating your favorite technologies from scratch.
+60+ technology categories with curated tutorial links. Languages span C, C++, Rust, Go, Python, JavaScript, Haskell, OCaml, Java, Ruby, Assembly. Deep-dive into how Docker containers actually work by building one in <100 lines of Go.
+
+
+
+
 
 ## What It Does
 A massive community-curated collection of step-by-step guides for building technologies from scratch. "What I cannot create, I do not understand" — Feynman. Covers 60+ systems across categories: operating systems (kernels, bootloaders, Raspberry Pi OS), databases (Redis clones, B+Trees), containers (Docker in <100 lines of Go), programming language compilers/interpreters (Lisp, Scheme, C in Haskell/Python/OCaml), Git internals, regex engines, text editors, 3D renderers, ray tracers, neural networks, LLMs from scratch, web servers, blockchains, BitTorrent clients, and search engines. Not a single project — it's a directory linking to the best external tutorials for each topic.

@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # awesome-claude-skills
 
-A curated list of Claude Skills — community skills for extending Claude Code.
+Development: web-artifacts-builder, TDD skill, git worktrees, AWS CDK, Terraform, Azure DevOps, M.... Documents: docx/pdf/pptx/xlsx skills, RevealJS presentations, EPUB generation, YouTube transcript.... Find Claude-specific skills not in broader cross-platform lists.
+
+
+
+
 
 ## What It Does
 Curated collection of Claude skills organized by domain — development, documents/media, data/research, collaboration, and security. Stands out from larger collections by including specific niche tools: VibeSec-Skill for web app security scanning, 125+ scientific skills for bioinformatics/ML, read-only SQL execution for Postgres/MySQL/MSSQL, office document skills (docx/pdf/pptx/xlsx), text-to-speech via ElevenLabs and Google TTS, DeFi portfolio analytics across 20+ chains, and a 69,000-skill directory at agentskill.sh. Also includes meta-tools like agnix (linter for agent configs) and skill-creator (official template for building new skills).

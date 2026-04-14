@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # Donchitos/Claude-Code-Game-Studios
 
+48 specialized game dev agents. 36 workflow skills. Build games with AI agent teams handling different aspects.
+
+
+
+
 ## What It Does
 Turn Claude Code into a full game dev studio. 48 AI agents, 36 workflow skills, covering game design, art, programming, audio, QA, and publishing.
 

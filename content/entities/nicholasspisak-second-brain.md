@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # NicholasSpisak/second-brain
 
+LLM-maintained knowledge base. Obsidian integration. Build a self-maintaining knowledge base in Obsidian.
+
+
+
+
 ## What It Does
 LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's second brain concept.
 

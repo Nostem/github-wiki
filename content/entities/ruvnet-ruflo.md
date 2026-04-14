@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # ruvnet/ruflo
 
-Agent orchestration platform for Claude. Deploy intelligent multi-agent workflows with memory, tool 
+Multi-agent workflow orchestration. Visual workflow builder. Build multi-agent pipelines for complex tasks.
+
+
+
+
 
 ## What It Does
 Agent orchestration platform for Claude. Deploy intelligent multi-agent workflows with memory, tool use, and inter-agent communication. Visual workflow builder for composing agent pipelines.

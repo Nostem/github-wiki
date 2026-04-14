@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # obra-superpowers
 
-An agentic skills framework & software development methodology that works.
+Test-Driven Development enforced: write failing test first, code before tests gets deleted. Subagent-driven development with two-stage review pipeline. Enforce TDD discipline on AI coding agents — prevent vibe-coded solutions without tests.
+
+
+
+
 
 ## What It Does
 A complete software development methodology for AI coding agents. Moves agents away from guessing toward a disciplined, step-by-step engineering process. Core workflow: brainstorm with Socratic questioning → create design doc → work in git worktrees → write implementation plans for "an enthusiastic junior engineer with poor taste" → dispatch fresh subagents per task → enforce RED-GREEN-REFACTOR TDD (code written before tests is deleted) → two-stage review (spec compliance + code quality) → branch finalization. Works as a plugin for Claude Code, Cursor, Codex, Gemini CLI, GitHub Copilot, and OpenCode. Created by Jesse Vincent.

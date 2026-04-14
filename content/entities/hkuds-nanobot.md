@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # HKUDS/nanobot
 
-Ultra-lightweight personal AI agent. Minimal footprint agent that runs locally with support for mult
+Ultra-lightweight design. Multiple LLM backend support. Run a personal AI agent on low-resource machines.
+
+
+
+
 
 ## What It Does
 Ultra-lightweight personal AI agent. Minimal footprint agent that runs locally with support for multiple LLM backends. Focuses on simplicity and low resource usage while maintaining full agent capabilities.

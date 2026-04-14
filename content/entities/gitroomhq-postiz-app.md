@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # gitroomhq-postiz-app
 
-The ultimate social media scheduling tool, with a bunch of AI
+Multi-platform scheduling: X, Bluesky, Mastodon, Discord, Facebook, Instagram, LinkedIn, TikTok. AI-enhanced content optimization and scheduling. Self-host social media scheduling for personal brand or team without monthly SaaS fees.
+
+
+
+
 
 ## What It Does
 Open-source social media management platform — a self-hostable alternative to Buffer, Hypefury, and TweetHunter. Supports scheduling posts across X/Twitter, Bluesky, Mastodon, Discord, Facebook, Instagram, LinkedIn, and TikTok. Uses official OAuth flows (no scraping, no storing API keys). Has a full REST API for automation via N8N, Make.com, and Zapier. Also offers a Postiz-as-a-Service mode for SaaS companies to embed social scheduling into their own products with multi-tenant isolation.

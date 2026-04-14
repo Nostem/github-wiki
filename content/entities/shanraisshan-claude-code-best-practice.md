@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # shanraisshan/claude-code-best-practice
 
-Comprehensive best practices guide for Claude Code — covering prompt engineering, workflow patterns,
+Prompt engineering best practices for Claude Code. Workflow patterns: TDD, code review, debugging. Reference guide for getting the most out of Claude Code.
+
+
+
+
 
 ## What It Does
 Comprehensive best practices guide for Claude Code — covering prompt engineering, workflow patterns, code review, testing, debugging, and project organization. Distilled from real-world usage patterns across thousands of developers.

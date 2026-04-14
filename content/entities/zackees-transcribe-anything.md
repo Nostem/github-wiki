@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # zackees/transcribe-anything
 
+Multi-backend Whisper. Mac ARM optimized. Transcribe any audio or video file.
+
+
+
+
 ## What It Does
 Multi-backend whisper app. Blazing fast, Mac-arm optimized, easy install. Input any audio/video URL or file.
 

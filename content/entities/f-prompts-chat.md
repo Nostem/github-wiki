@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-08.md]
 
 # f-prompts-chat
 
-Community-driven collection of prompts for ChatGPT, Claude, and Gemini. A curated library of effective prompts across different use cases — from writing and analysis to coding and research.
+157k+ stars — massive community traction. Cross-platform: ChatGPT, Claude, Gemini. Find effective prompts for specific tasks.
+
+
+
 
 ## What It Does
 A prompt library where the community shares and votes on effective prompts for major AI models. Organized by model and use case, with each prompt tested and rated by users. One of the largest public prompt collections.

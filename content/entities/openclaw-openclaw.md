@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-08.md]
 
 # openclaw
 
-Cross-platform AI assistant with a massive skills ecosystem — run it on any OS, connect any LLM backend, and leverage 5400+ community-built skills. The fastest-growing open AI assistant project (350k+ stars in months).
+Cross-platform: macOS, Windows, Linux. 5400+ community skills (and growing). Personal AI assistant with full data privacy.
+
+
+
 
 ## What It Does
 A desktop and CLI AI assistant that runs locally with full data ownership. Built around a skill system where anyone can publish capabilities — the 5400+ skills cover everything from web browsing to code execution to specialized domain tasks. Uses "molty" (🦞) as the LLM backend abstraction, allowing you to swap models without changing your workflow.

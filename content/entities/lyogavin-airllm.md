@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # lyogavin-airllm
 
-AirLLM 70B inference with single 4GB GPU — optimization library for running large language models on minimal hardware.
+70B on 4GB GPU, 405B on 8GB GPU — no quantization needed. No quality loss: no pruning, distillation, or aggressive compression. Run 70B+ models on a work laptop with 4GB GPU for offline/private inference.
+
+
+
+
 
 ## What It Does
 Optimization framework for running massive LLMs on consumer-grade GPUs. Runs 70B models on a 4GB GPU and 405B models (Llama 3.1) on an 8GB GPU — without quantization, distillation, or pruning. Works by decomposing models layer-by-layer and loading them on demand, preserving full model quality. Supports Llama 3.1 (405B), Llama 3 (70B), Qwen 2.5, Mixtral, ChatGLM, Baichuan, Mistral, InternLM. Optional block-wise quantization (4bit/8bit) adds 3x speed boost with negligible accuracy loss. Works on Linux and macOS (Apple Silicon). Interface mirrors HuggingFace AutoModel.

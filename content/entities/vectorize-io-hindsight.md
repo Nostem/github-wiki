@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # vectorize-io/hindsight
 
+Adaptive memory retrieval. Learning from interactions. Build agents with memory that improves over time.
+
+
+
 ## What It Does
 Agent memory that learns. Adaptive memory system that improves retrieval quality based on what's actually useful. Learns from agent interactions.
 

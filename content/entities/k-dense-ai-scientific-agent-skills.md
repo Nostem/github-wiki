@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # K-Dense-AI/scientific-agent-skills
 
-Ready-to-use agent skills for research, science, engineering, and analysis. Covers data analysis, ex
+Research and science focused skills. Data analysis, experiment design. Automate scientific data analysis workflows.
+
+
+
+
 
 ## What It Does
 Ready-to-use agent skills for research, science, engineering, and analysis. Covers data analysis, experiment design, paper writing, and scientific computing.

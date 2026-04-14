@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # unslothai/unsloth
 
-Unsloth Studio — a web UI for training and running open-source models like Gemma 4, Qwen 3, Llama 4,
+2x faster fine-tuning, 60% less VRAM usage. Web UI for training (Unsloth Studio). Fine-tune open-source models on custom datasets without a cluster.
+
+
+
+
 
 ## What It Does
 Unsloth Studio — a web UI for training and running open-source models like Gemma 4, Qwen 3, Llama 4, Phi 4, Mistral, and DeepSeek. Makes fine-tuning accessible with a visual interface. Also provides the core Unsloth library for 2x faster training with 60% less memory.

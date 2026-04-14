@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # garrytan/gbrain
 
+Opinionated agent configuration. From YC CEO Garry Tan. Reference an opinionated agent setup from a top operator.
+
+
+
+
 ## What It Does
 Garry Tan's opinionated OpenClaw/Hermes Agent brain configuration. Curated agent setup from Y Combinator's CEO.
 

@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # exelban/stats
 
-macOS system monitor in your menu bar. Shows CPU, GPU, memory, disk, network, battery, and sensor st
+CPU, GPU, memory, disk, network monitoring. Battery and sensor stats. Monitor system resources while running heavy AI workloads.
+
+
+
+
 
 ## What It Does
 macOS system monitor in your menu bar. Shows CPU, GPU, memory, disk, network, battery, and sensor stats. Open-source alternative to iStat Menus. Written in native Swift.

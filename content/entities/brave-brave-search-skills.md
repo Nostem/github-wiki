@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # brave/brave-search-skills
 
+Brave Search integration. Official Brave skills. Search the web via Brave from AI agents.
+
+
+
+
 ## What It Does
 Official skills for using Brave Search API with AI coding agents.
 

@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # qwibitai/nanoclaw
 
-Lightweight alternative to OpenClaw that runs in containers for security. Connects to MCP servers an
+Container-isolated agent execution. MCP server integration. Run untrusted agent code in isolated containers.
+
+
+
+
 
 ## What It Does
 Lightweight alternative to OpenClaw that runs in containers for security. Connects to MCP servers and provides agent capabilities with container isolation for safe execution.

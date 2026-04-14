@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # anthropics-skills
 
-Public repository for Agent Skills — Anthropic's official skill definitions for Claude Code and agentic systems.
+Standardized skill interface definition. Modular, composable skill units. Write skills that work across multiple agent platforms.
+
+
+
+
 
 ## What It Does
 Defines how Anthropic-compatible agents expose and execute skills. Skills are modular units of capability — each skill has a defined interface, implementation, and schema. This is the canonical reference for how to write skills that work with Anthropic agents.

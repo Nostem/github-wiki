@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # HKUDS/Vibe-Trading
 
+Personal trading agent. Autonomous decisions. Deploy a personal AI trading agent.
+
+
+
+
 ## What It Does
 Your personal trading agent. Agent-native trading with autonomous decision making.
 

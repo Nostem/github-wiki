@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # MiniMax-AI/skills
 
+Official MiniMax skills. Text, image, and media generation. Generate content using MiniMax AI models.
+
+
+
 ## What It Does
 Official MiniMax AI skills collection. Skills for text generation, image creation, and media processing using MiniMax models.
 

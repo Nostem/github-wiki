@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-08.md]
 
 # nextlevelbuilder-ui-ux-pro-max-skill
 
-AI design skill for generating professional UI/UX across multiple platforms — outputs React components, Tailwind CSS, and mobile designs. Combines 161 reasoning rules for design decisions with 67 distinct visual styles.
+161 reasoning rules for design decisions. 67 distinct UI styles (minimal, brutalist, corporate, etc.). Generate production-ready UI components from descriptions.
+
+
+
 
 ## What It Does
 A Claude Code / OpenClaw skill that generates production-quality UI from natural language descriptions. Not a simple component generator — it applies design intelligence: spacing, typography, color theory, and platform-specific conventions. Outputs code that's ready to use, not a sketch to refine.

@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # VoltAgent/awesome-codex-subagents
 
+130+ specialized subagents. Wide domain coverage. Find pre-built subagents for Codex CLI.
+
+
+
+
 ## What It Does
 Collection of 130+ specialized Codex subagents covering development, testing, DevOps, security, and more.
 

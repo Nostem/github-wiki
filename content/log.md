@@ -75,3 +75,18 @@
   - agent-orchestration-platforms — flowise, ruflo, paperclip, multica
 - Backlinks added to 50 entity pages
 - Total pages: 146 entities + 21 concepts = 167
+
+## [2026-04-13] update | Index rewrite — full descriptions
+- Rewrote all 146 entity index entries with full 2-3 sentence descriptions
+- Regenerated entity page first paragraphs from features/use cases (146 pages)
+- Fixed word-break artifacts from original 100-char truncation
+- Index entries now include: what it does, key differentiator, primary use case
+- Total pages: 172 (146 entities + 21 concepts + 5 queries)
+
+## [2026-04-13] create | Use-case query pages (5)
+- queries/building-a-trading-bot.md — CCXT, TradingAgents, AI-Trader, Vibe-Trading
+- queries/building-a-personal-knowledge-base.md — Obsidian skills, Cognee, qmd, wiki-os
+- queries/setting-up-an-ai-coding-agent-workflow.md — Claude Code, skills, subagents, TDD
+- queries/building-a-web-scraping-pipeline.md — Scrapling, agent-browser, Hyperbrowser
+- queries/creating-agent-skills-and-plugins.md — Anthropic spec, best practices, SkillKit
+- Each page includes: recommended stack, architecture decision tree, related concepts

@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # tobi/qmd
 
-Mini CLI search engine for your docs, knowledge bases, meeting notes. Fast full-text search across l
+Fast full-text search across local files. Relevance ranking. Search across documentation and meeting notes.
+
+
+
+
 
 ## What It Does
 Mini CLI search engine for your docs, knowledge bases, meeting notes. Fast full-text search across local markdown and text files with relevance ranking.

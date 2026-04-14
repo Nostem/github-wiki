@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # TauricResearch/TradingAgents
 
-Multi-Agent LLM Financial Trading Framework. Uses specialized agents (analyst, trader, risk manager,
+Multi-agent debate: analyst, trader, risk manager, portfolio manager. Role-based agent specialization for financial decisions. Build multi-agent trading systems with specialized roles.
+
+
+
 
 ## What It Does
 Multi-Agent LLM Financial Trading Framework. Uses specialized agents (analyst, trader, risk manager, portfolio manager) that debate and collaborate to make trading decisions. Each agent has a distinct role and perspective, producing more robust decisions than single-agent approaches.

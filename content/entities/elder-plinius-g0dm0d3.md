@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # elder-plinius/G0DM0D3
 
+LLM safety research. Jailbreak technique documentation. Research LLM safety boundaries.
+
+
+
 ## What It Does
 Liberated AI chat — jailbreak techniques and unrestricted AI interaction research. Academic study of LLM safety boundaries.
 

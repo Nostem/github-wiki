@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # kyrolabs/awesome-agents
 
+Curated AI agent directory. Frameworks, tools, applications. Discover AI agent frameworks and tools.
+
+
+
+
 ## What It Does
 Awesome list of AI agents. Curated directory of agent frameworks, tools, and applications.
 

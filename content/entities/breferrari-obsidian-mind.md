@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # breferrari/obsidian-mind
 
+Agent persistent memory via Obsidian. Multi-agent support. Give coding agents persistent memory through Obsidian vaults.
+
+
+
+
 ## What It Does
 An Obsidian vault that gives AI coding agents persistent memory. Works with Claude Code, Codex, and more.
 

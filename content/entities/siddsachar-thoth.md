@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # siddsachar/Thoth
 
+Local-first AI. Privacy-focused. Run a privacy-focused AI assistant locally.
+
+
+
 ## What It Does
 Personal AI sovereignty. Local-first AI assistant with integrated tools and privacy focus.
 

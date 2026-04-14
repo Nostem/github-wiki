@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # thedotmack/claude-mem
 
-Claude Code plugin that automatically captures everything Claude does during your coding sessions — 
+Automatic session capture: code changes, decisions, errors, fixes. Structured memory persistence across sessions. Make Claude remember what it did in previous sessions on the same project.
+
+
+
+
 
 ## What It Does
 Claude Code plugin that automatically captures everything Claude does during your coding sessions — code changes, decisions, errors, fixes — and persists it as structured memory. Makes Claude remember past sessions, decisions, and project context across conversations.

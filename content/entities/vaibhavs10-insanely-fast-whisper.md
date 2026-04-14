@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # Vaibhavs10/insanely-fast-whisper
 
-Optimized Whisper inference for blazing fast speech-to-text. Uses batching, Flash Attention, and qua
+10-100x faster than vanilla Whisper. Batching and Flash Attention optimization. Transcribe audio files at blazing speed.
+
+
+
+
 
 ## What It Does
 Optimized Whisper inference for blazing fast speech-to-text. Uses batching, Flash Attention, and quantization for 10-100x speedup over vanilla Whisper.

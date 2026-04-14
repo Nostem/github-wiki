@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-08.md]
 
 # anthropics-claude-code
 
-Official Anthropic CLI for agentic coding — a terminal-based agent that understands your entire codebase, executes tasks through natural language, and handles the full software development lifecycle (edit, git, terminal, search).
+Terminal-based — works in any shell environment. Full codebase context (not just open files). Primary coding agent for daily development work.
+
+
+
 
 ## What It Does
 Claude Code is Anthropic's official coding agent. It lives in your terminal, maintains full codebase context, and responds to natural language instructions by reading, writing, and executing code. It can handle multi-file coordinated changes, run tests and builds, manage git workflows, and reason about complex codebases.

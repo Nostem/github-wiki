@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # Corrob/law-of-one-study
 
+Law of One study companion. Cross-referencing tools. Study the Law of One material with AI assistance.
+
+
+
+
 ## What It Does
 Study tool for the Law of One (Ra Material). Organized reading, note-taking, and cross-referencing for the channeled texts.
 

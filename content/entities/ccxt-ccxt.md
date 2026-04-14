@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # ccxt/ccxt
 
-Unified cryptocurrency trading API supporting 100+ exchanges. Single interface for Binance, Coinbase
+100+ cryptocurrency exchanges via one API. Unified interface: same code works on any exchange. Build trading bots that work across multiple exchanges with one codebase.
+
+
+
+
 
 ## What It Does
 Unified cryptocurrency trading API supporting 100+ exchanges. Single interface for Binance, Coinbase, Kraken, Bybit, OKX, and dozens more. Handles authentication, order placement, balance queries, market data, and WebSocket streams across all exchanges.

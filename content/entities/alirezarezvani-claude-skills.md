@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # alirezarezvani/claude-skills
 
+232+ skills across domains. Multi-platform compatibility. Find pre-built skills for specific development tasks.
+
+
+
+
 ## What It Does
 232+ Claude Code skills and agent plugins for Claude Code, Codex, Gemini CLI, Cursor. Comprehensive skill collection across domains.
 

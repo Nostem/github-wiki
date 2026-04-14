@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # hyperbrowser-app-examples
 
-Fully functional Hyperbrowser-powered web apps — examples of browser automation with Hyperbrowser.
+Browser automation examples. Web scraping patterns. Build web scrapers for wiki source collection.
+
+
+
+
 
 ## What It Does
 Sample applications built on Hyperbrowser — a browser automation platform. Shows how to scrape, interact with, and extract data from websites programmatically. Good reference patterns for web automation projects.

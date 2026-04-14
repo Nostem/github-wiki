@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # koala73/worldmonitor
 
-Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical analysis, market 
+Real-time news aggregation from multiple sources. AI-powered summarization and analysis. Monitor global events that could impact markets or operations.
+
+
+
+
 
 ## What It Does
 Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical analysis, market monitoring, and threat detection. Combines multiple data sources into a unified intelligence feed with AI summarization and alerting.

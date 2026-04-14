@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # microsoft/BitNet
 
-Microsoft's official inference framework for 1-bit LLMs. Enables running large language models with 
+1-bit LLM inference. Extreme quantization with minimal quality loss. Run very large models on minimal hardware.
+
+
+
+
 
 ## What It Does
 Microsoft's official inference framework for 1-bit LLMs. Enables running large language models with extreme quantization (1-bit weights) while maintaining competitive performance. Dramatically reduces model size and inference cost.

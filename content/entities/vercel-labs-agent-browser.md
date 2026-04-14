@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # vercel-labs/agent-browser
 
-Browser automation CLI for AI agents. Fast, Rust-based browser control that agents can use for web s
+Rust-based browser automation. CLI interface for agent consumption. Automate web research tasks with AI agents.
+
+
+
+
 
 ## What It Does
 Browser automation CLI for AI agents. Fast, Rust-based browser control that agents can use for web scraping, form filling, testing, and web interaction. Designed for programmatic use by AI agents.

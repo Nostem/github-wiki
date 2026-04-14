@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # github/spec-kit
 
-GitHub's toolkit for Spec-Driven Development — a methodology where you write detailed specifications
+Spec templates for features, APIs, and system designs. Spec validation and consistency checking. Write a detailed feature spec before letting an agent implement it.
+
+
+
+
 
 ## What It Does
 GitHub's toolkit for Spec-Driven Development — a methodology where you write detailed specifications before code, then let AI agents implement from the spec. Includes spec templates, validation tools, and agent integration for Claude Code, Cursor, Codex, and Copilot.

@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # uditgoenka/autoresearch
 
+Goal-directed autonomous research. Iterative until completion. Research topics autonomously until a goal is met.
+
+
+
+
 ## What It Does
 Claude Autoresearch Skill — autonomous goal-directed iteration for Claude Code. Keeps researching until the goal is achieved.
 

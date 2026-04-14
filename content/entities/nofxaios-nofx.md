@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # NoFxAiOS/nofx
 
+Multi-market trading assistance. USDC payment instead of API keys. Access AI trading assistance without managing API keys.
+
+
+
 ## What It Does
 Personal AI trading assistant. Any market, any model. Pay with USDC, not API keys. Decentralized agent marketplace.
 

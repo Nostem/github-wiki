@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # HKUDS/AI-Trader
 
-100% fully-automated agent-native trading system. Autonomous agent that analyzes markets, makes trad
+Fully autonomous trading. Agent-native architecture. Deploy fully autonomous trading agents.
+
+
+
 
 ## What It Does
 100% fully-automated agent-native trading system. Autonomous agent that analyzes markets, makes trading decisions, and executes trades without human intervention.

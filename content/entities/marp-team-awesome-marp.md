@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # marp-team/awesome-marp
 
+Marp themes and plugins. Presentation tools. Find Marp themes for presentations.
+
+
+
+
 ## What It Does
 Curated list of awesome things related to Marp presentations. Themes, plugins, and tools for Markdown presentations.
 

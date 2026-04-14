@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # matplotlib/matplotlib
 
-The foundational Python plotting library. Publication-quality figures with line plots, scatter plots
+Publication-quality plots. Hundreds of plot types. Create data visualizations for reports and analysis.
+
+
+
+
 
 ## What It Does
 The foundational Python plotting library. Publication-quality figures with line plots, scatter plots, bar charts, histograms, 3D plots, and more. The standard for scientific visualization in Python.

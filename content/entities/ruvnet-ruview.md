@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # ruvnet/RuView
 
-WiFi DensePose — turns commodity WiFi signals into real-time human pose estimation. Uses WiFi CSI (C
+Human pose estimation via WiFi signals (no camera needed). Works through walls and obstacles. Privacy-preserving occupancy detection in buildings.
+
+
+
+
 
 ## What It Does
 WiFi DensePose — turns commodity WiFi signals into real-time human pose estimation. Uses WiFi CSI (Channel State Information) to detect human body positions through walls, without cameras. Privacy-preserving alternative to camera-based motion tracking.

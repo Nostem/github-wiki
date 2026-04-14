@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # ZhuLinsen/daily_stock_analysis
 
-LLM-powered stock analyzer for A-shares, H-shares, and US stocks. Multi-source market data + real-ti
+Multi-market: A-shares, H-shares, US stocks. Real-time news integration. Automated daily stock analysis with LLM insights.
+
+
+
+
 
 ## What It Does
 LLM-powered stock analyzer for A-shares, H-shares, and US stocks. Multi-source market data + real-time news + LLM decision dashboard + multi-channel alerts. Zero-cost scheduled operation.

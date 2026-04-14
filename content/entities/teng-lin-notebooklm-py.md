@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # teng-lin/notebooklm-py
 
+Python API for NotebookLM. Document upload and Q&A. Query NotebookLM programmatically from scripts.
+
+
+
 ## What It Does
 Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's document Q&A capabilities.
 

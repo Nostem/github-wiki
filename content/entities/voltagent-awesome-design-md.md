@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # VoltAgent/awesome-design-md
 
-Collection of DESIGN.md files inspired by popular brand design systems. Drop a DESIGN.md into your p
+DESIGN.md files from real brand design systems. Covers: typography, color, spacing, components, interactions. Drop a DESIGN.md into a project to give the AI agent design constraints.
+
+
+
+
 
 ## What It Does
 Collection of DESIGN.md files inspired by popular brand design systems. Drop a DESIGN.md into your project to give AI coding agents a reference design language. Covers typography, color, spacing, components, and interaction patterns from real brand systems.

@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # msitarzewski/agency-agents
 
-A complete AI agency framework — 48+ AI agents covering frontend development, Reddit community manag
+48+ specialized agents across domains (dev, marketing, content, SEO). Frontend wizard, Reddit community manager, social media agents. Deploy a virtual marketing team using specialized AI agents.
+
+
+
+
 
 ## What It Does
 A complete AI agency framework — 48+ AI agents covering frontend development, Reddit community management, social media, content creation, SEO, and more. Each agent is a specialized persona with domain expertise. Think of it as a virtual marketing/development agency built from AI agents.

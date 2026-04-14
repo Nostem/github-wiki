@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # awesome-claude-code-subagents
 
-A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases.
+100+ specialized subagents. Domain-specific configurations. Find a specialized agent for a project task.
+
+
+
+
 
 ## What It Does
 Pre-built subagents for Claude Code — each subagent is a focused agent configured for a specific task domain (e.g., frontend developer, DevOps engineer, security auditor). Rather than writing a generic agent prompt, you pick a subagent that knows its domain.

@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # NousResearch/hermes-agent-self-evolution
 
+Evolutionary optimization for agents. Self-improving prompts and skills. Optimize agent performance through evolution.
+
+
+
+
 ## What It Does
 Evolutionary self-improvement for Hermes Agent. Optimize skills, prompts, and behaviors through evolutionary algorithms.
 

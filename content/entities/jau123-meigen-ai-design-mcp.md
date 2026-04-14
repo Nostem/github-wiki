@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # jau123/MeiGen-AI-Design-MCP
 
+Local AI design via MCP. Design tool integration. Generate designs locally via AI agent.
+
+
+
+
 ## What It Does
 Turn Claude Code/OpenClaw into your local Lovart. Local AI design tool via MCP.
 

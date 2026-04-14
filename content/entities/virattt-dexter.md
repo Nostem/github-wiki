@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # virattt/dexter
 
-Autonomous agent for deep financial research. Analyzes SEC filings, earnings calls, financial statem
+SEC filing analysis. Earnings call transcription and analysis. Automate fundamental analysis of public companies.
+
+
+
+
 
 ## What It Does
 Autonomous agent for deep financial research. Analyzes SEC filings, earnings calls, financial statements, and market data to produce investment research reports.

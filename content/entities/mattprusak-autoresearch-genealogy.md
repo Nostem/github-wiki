@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # mattprusak/autoresearch-genealogy
 
+Genealogy research prompts. Vault templates. Research family history with AI assistance.
+
+
+
 ## What It Does
 Structured prompts, vault templates, and archive guides for AI-assisted genealogy research.
 

@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # hesreallyhim/awesome-claude-code
 
-Curated list of awesome Claude Code skills, hooks, slash-commands, agent orchestrators, and applicat
+Skills, hooks, slash-commands, orchestrators. Quality-filtered community contributions. Discover Claude Code extensions for specific workflows.
+
+
+
+
 
 ## What It Does
 Curated list of awesome Claude Code skills, hooks, slash-commands, agent orchestrators, and applications. Community-maintained with quality filtering. Covers the full Claude Code ecosystem.

@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-08.md]
 
 # shubhamsaboo-awesome-llm-apps
 
-A curated collection of 50+ LLM-powered application patterns — spanning RAG architectures, multi-agent systems, autonomous workflows, and specialized AI tools. Organized by use case with code examples for each pattern.
+50+ application patterns documented. RAG architectures (naive, hierarchical, adaptive). Architecture reference when starting a new LLM app.
+
+
+
 
 ## What It Does
 A reference collection for LLM application architecture. Each entry shows a specific pattern — how to build a RAG system, how to orchestrate multiple agents, how to create a code understanding system. Covers OpenAI, Anthropic, Gemini, and open-source models.

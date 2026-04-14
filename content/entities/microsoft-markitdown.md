@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # microsoft/markitdown
 
-Microsoft's Python tool for converting files and office documents to Markdown. Supports PDF, PowerPo
+Converts: PDF, PPTX, DOCX, XLSX, images, audio, HTML, CSV, JSON, XML, ZIP. Image OCR and audio transcription built-in. Convert office documents to Markdown for LLM context ingestion.
+
+
+
+
 
 ## What It Does
 Microsoft's Python tool for converting files and office documents to Markdown. Supports PDF, PowerPoint, Word, Excel, images (with OCR), audio (with transcription), HTML, CSV, JSON, XML, and ZIP archives. Designed as a lightweight utility for LLM ingestion pipelines.

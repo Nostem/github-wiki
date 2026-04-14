@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # steipete/discrawl
 
+Discord CLI. SQLite local storage. Search Discord message history locally.
+
+
+
 ## What It Does
 CLI for Discord with SQLite backend. Search and manage Discord data locally.
 

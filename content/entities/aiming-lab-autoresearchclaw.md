@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # aiming-lab/AutoResearchClaw
 
+Idea-to-paper autonomous pipeline. Literature review automation. Generate research papers from initial ideas.
+
+
+
 ## What It Does
 Fully autonomous and self-evolving research from idea to paper. Chat an idea, get a research paper. Handles literature review, experiment design, execution, and writing.
 

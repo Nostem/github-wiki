@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # sherlock-project/sherlock
 
-Hunt down social media accounts by username across 400+ social networks. Enter a username and Sherlo
+Searches 400+ social networks for a given username. CLI tool — single command to scan all platforms. OSINT research: find someone's social media footprint from a single username.
+
+
+
+
 
 ## What It Does
 Hunt down social media accounts by username across 400+ social networks. Enter a username and Sherlock checks if that account exists on platforms like Twitter, Instagram, Reddit, GitHub, LinkedIn, and hundreds more. Useful for OSINT (Open Source Intelligence) research.

@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # HKUDS/DeepTutor
 
-Agent-native personalized learning assistant. Adapts teaching style to individual learners, tracks p
+Personalized learning paths. Adaptive teaching style. Learn new technologies with an AI tutor that adapts to your pace.
+
+
+
+
 
 ## What It Does
 Agent-native personalized learning assistant. Adapts teaching style to individual learners, tracks progress, and provides Socratic questioning for deeper understanding.

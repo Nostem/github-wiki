@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # googleworkspace/cli
 
-Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, and Docs. Written i
+Unified CLI for Drive, Gmail, Calendar, Sheets, Docs. Rust-based for fast performance. Manage Google Workspace from the terminal.
+
+
+
+
 
 ## What It Does
 Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, and Docs. Written in Rust for speed. Provides a unified terminal interface to all Google Workspace services.

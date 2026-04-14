@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # multica-ai/multica
 
+Managed agent platform. Task management and assignment. Manage coding agents as team members with proper workflows.
+
+
+
+
 ## What It Does
 Open-source managed agents platform. Turn coding agents into real teammates with task management, code review, and deployment workflows.
 

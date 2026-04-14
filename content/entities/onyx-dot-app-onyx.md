@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # onyx-dot-app/onyx
 
-Open-source AI platform — AI chat with advanced features that works with every LLM. Connects to your
+Works with every LLM provider. Connects to documents, Slack, GitHub, Confluence. Build an AI assistant that knows your company's documentation.
+
+
+
+
 
 ## What It Does
 Open-source AI platform — AI chat with advanced features that works with every LLM. Connects to your documents, Slack, GitHub, Confluence, and more for contextual AI assistance.

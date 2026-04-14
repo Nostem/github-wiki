@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # marp-team/marp
 
+Markdown to slide deck conversion. VS Code extension. Create presentations from Markdown quickly.
+
+
+
+
 ## What It Does
 Markdown Presentation Ecosystem — create slide decks from Markdown. The entrance repository for Marp tools including CLI, VS Code extension, and core library.
 

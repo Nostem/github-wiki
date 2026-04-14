@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # rowboatlabs/rowboat
 
+Persistent memory across sessions. Learning and preference adaptation. Deploy an AI coworker that remembers past interactions.
+
+
+
+
 ## What It Does
 Open-source AI coworker with memory. Persistent agent that remembers context across sessions, learns preferences, and improves over time.
 

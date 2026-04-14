@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # Y-Research-SBU/QuantAgent
 
+Quantitative trading agents. Strategy research framework. Research agent-based quantitative trading strategies.
+
+
+
 ## What It Does
 Quantitative trading agent framework. Research project for agent-based quantitative trading strategies.
 

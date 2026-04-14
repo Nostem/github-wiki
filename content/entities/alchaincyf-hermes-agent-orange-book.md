@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # alchaincyf/hermes-agent-orange-book
 
+Comprehensive Hermes Agent guide. Chinese language. Learn Hermes Agent from beginner to expert (Chinese documentation).
+
+
+
+
 ## What It Does
 Hermes Agent from beginner to expert — Orange Book series. Nous Research open-source AI agent framework practical guide (Chinese).
 

@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # FlowiseAI/Flowise
 
-Drag-and-drop UI for building AI agents and LLM workflows. Visual canvas for connecting LLMs, tools,
+Visual drag-and-drop agent builder. 100+ integrations (LLMs, tools, databases, APIs). Rapidly prototype agent workflows visually before coding them.
+
+
+
+
 
 ## What It Does
 Drag-and-drop UI for building AI agents and LLM workflows. Visual canvas for connecting LLMs, tools, memory, and chains without writing code. Supports OpenAI, Anthropic, Google, HuggingFace, Ollama, and 100+ integrations.

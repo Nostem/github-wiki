@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # qwenlm-qwen-agent
 
-Agent framework built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, Agentic workflows
+Function calling with parallel tool invocation (default). MCP support for external tool servers (SQLite, filesystem, etc.). Build production agent applications on open-source Qwen models.
+
+
+
+
 
 ## What It Does
 Official agent framework from the Qwen team, built on Qwen 3.0+ models. Provides atomic components (LLMs, tools) and high-level components (agents) for building production LLM applications. Supports function calling with parallel tool use, MCP (Model Context Protocol) for external tool integration, a Docker-sandboxed code interpreter, and RAG with 1M+ token context. This is the backend powering chat.qwen.ai. Includes BrowserQwen (Chrome extension) and specialized agents like parallel document QA.

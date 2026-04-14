@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # TabbyML/tabby
 
-Self-hosted AI coding assistant. Open-source alternative to GitHub Copilot that runs entirely on you
+Self-hosted code completion and chat. No data sent to external servers. Deploy an AI coding assistant without sending code to external APIs.
+
+
+
+
 
 ## What It Does
 Self-hosted AI coding assistant. Open-source alternative to GitHub Copilot that runs entirely on your infrastructure. Supports code completion, chat, and code search. No data leaves your servers.

@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # tradingview/lightweight-charts
 
-Performant financial charts built with HTML5 canvas. TradingView's open-source charting library. Sup
+High-performance HTML5 canvas charts. Candlestick, line, area chart types. Build custom trading dashboards with professional charts.
+
+
+
 
 ## What It Does
 Performant financial charts built with HTML5 canvas. TradingView's open-source charting library. Supports candlestick, line, area, and custom indicators.

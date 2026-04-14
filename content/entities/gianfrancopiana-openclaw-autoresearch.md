@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # gianfrancopiana/openclaw-autoresearch
 
+Autonomous experiment loops. OpenClaw plugin. Run autonomous experiment loops.
+
+
+
 ## What It Does
 Autonomous experiment loop plugin for OpenClaw. Run iterative experiments autonomously.
 

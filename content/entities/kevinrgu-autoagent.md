@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # kevinrgu/autoagent
 
+Self-directing agent architecture. Auto-prompt engineering. Build agents that optimize their own prompts.
+
+
+
+
 ## What It Does
 Autonomous harness engineering. Framework for building self-directing agent systems that engineer their own prompts and workflows.
 

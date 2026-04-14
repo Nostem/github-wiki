@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # safishamsi/graphify
 
-AI coding assistant skill for Claude Code, Codex, OpenCode, Cursor, Gemini CLI. Generates visual gra
+Auto-generate diagrams from code. Mermaid, PlantUML, D2 output. Auto-generate architecture diagrams from codebases.
+
+
+
+
 
 ## What It Does
 AI coding assistant skill for Claude Code, Codex, OpenCode, Cursor, Gemini CLI. Generates visual graphs and diagrams from code, data, and concepts. Auto-creates Mermaid, PlantUML, and other diagram formats.

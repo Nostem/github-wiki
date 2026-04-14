@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-08.md]
 
 # bytedance-deer-flow
 
-Open-source long-horizon SuperAgent — researches, codes, and creates with sandboxed execution, persistent memories, tool access, skill composition, subagents, and message routing. Handles tasks from minutes to hours.
+Long-horizon task support (minutes to hours). Sandboxed execution (safe code running). Research tasks that require browsing, analyzing, and synthesizing.
+
+
+
 
 ## What It Does
 Deer Flow is a research-oriented agent framework designed for long-horizon tasks. Unlike coding agents that focus on single-file edits, Deer Flow can sustain multi-hour research tasks with proper memory management, sandboxed code execution, and hierarchical subagent orchestration.

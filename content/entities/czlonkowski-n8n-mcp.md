@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # czlonkowski-n8n-mcp
 
-A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows
+1,396 nodes covered (812 core + 584 community), 87% docs coverage. 2,709 workflow templates with 100% metadata coverage. Build n8n workflows conversationally: describe what you want, agent creates and validates it.
+
+
+
+
 
 ## What It Does
 An MCP (Model Context Protocol) server that gives AI assistants deep structured knowledge of 1,396 n8n workflow automation nodes — their properties, operations, and documentation. Goes beyond simple node lookup: validates workflow configurations against node schemas, searches 2,709 workflow templates, and can directly create/update/test/deploy n8n workflows via the n8n API. Average query time ~12ms via optimized SQLite. Has a free hosted tier (100 tool calls/day) at dashboard.n8n-mcp.com.

@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # vercel-labs/agent-skills
 
-Vercel's official collection of agent skills. Production-quality skills for deployment, infrastructu
+Official Vercel skills. Deployment and infrastructure focused. Deploy projects to Vercel via agent commands.
+
+
+
+
 
 ## What It Does
 Vercel's official collection of agent skills. Production-quality skills for deployment, infrastructure management, and web development workflows.

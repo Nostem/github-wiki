@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-08.md]
 
 # system-prompts-and-models-of-ai-tools
 
-Full collection of system prompts, internal tools, and AI models for 25+ AI coding tools including Claude Code, Cursor, Devin, Windsurf, and others.
+System prompts for 25+ AI coding tools. Internal tool documentation. Research AI coding tool capabilities before using one.
+
+
+
 
 ## What It Does
 Aggregates and documents the system prompts (the instructions that define how each AI coding assistant behaves), internal tools, and model configurations for a wide range of AI coding tools. If you want to understand how different AI agents think and what capabilities they have, this is the reference.

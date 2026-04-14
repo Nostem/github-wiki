@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # Jeffallan/claude-skills
 
+66 full-stack development skills. Frontend, backend, DevOps coverage. Extend Claude Code for full-stack development.
+
+
+
+
 ## What It Does
 66 specialized skills for full-stack developers. Transform Claude Code into a complete development partner covering frontend, backend, DevOps, and more.
 

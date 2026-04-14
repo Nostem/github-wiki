@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # Martian-Engineering/lossless-claw
 
+Lossless context compression. Important information preservation. Manage long conversations without losing context.
+
+
+
 ## What It Does
 Lossless Context Management (LCM) plugin for OpenClaw. Manages context windows without losing important information.
 

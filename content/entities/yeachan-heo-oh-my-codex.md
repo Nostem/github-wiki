@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # Yeachan-Heo/oh-my-codex
 
-Oh My Codex (OmX) — add hooks, agent teams, HUDs, and more to Codex. Extension framework for OpenAI'
+Hooks for Codex lifecycle events. Agent team composition. Add custom hooks to Codex agent workflows.
+
+
+
+
 
 ## What It Does
 Oh My Codex (OmX) — add hooks, agent teams, HUDs, and more to Codex. Extension framework for OpenAI's Codex CLI agent.

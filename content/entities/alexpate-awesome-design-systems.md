@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # alexpate/awesome-design-systems
 
-Curated collection of awesome design systems from companies like Shopify, GitHub, Atlassian, IBM, an
+100+ design systems from real companies. Categorized by industry and approach. Reference existing design systems when building your own.
+
+
+
+
 
 ## What It Does
 Curated collection of awesome design systems from companies like Shopify, GitHub, Atlassian, IBM, and more. Reference for building consistent UI across products.

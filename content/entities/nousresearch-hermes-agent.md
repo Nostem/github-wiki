@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-08.md]
 
 # nousresearch-hermes-agent
 
-"The agent that grows with you" — a self-improving agent framework from Nous Research. Hermes is designed to learn from its interactions, improve its strategies over time, and adapt to the user's workflow rather than requiring the user to adapt to it.
+Self-improving: learns from past mistakes. OpenClaw foundation (interoperable with other OpenClaw tools). Long-term projects where you want the agent to remember your preferences.
+
+
+
 
 ## What It Does
 An agent framework built on OpenClaw that emphasizes self-improvement and adaptability. Key difference from static agents: Hermes observes its own performance, identifies failure modes, and adjusts its approach. Built for developers who want an agent that gets better the more they use it.

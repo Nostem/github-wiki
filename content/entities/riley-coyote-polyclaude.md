@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # Riley-Coyote/polyclaude
 
+Multi-perspective analysis. Parallel cognitive threads. Get multi-perspective analysis on complex decisions.
+
+
+
+
 ## What It Does
 Multi-perspective council analysis plugin for Claude Code. Spawns parallel cognitive threads.
 

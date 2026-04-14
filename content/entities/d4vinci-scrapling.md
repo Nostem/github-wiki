@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # d4vinci-scrapling
 
-An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl.
+Adaptive element matching (handles site changes). Single request to full crawl support. Build resilient web scrapers for wiki source collection.
+
+
+
+
 
 ## What It Does
 A Python web scraping framework that adapts to website changes automatically. Instead of writing brittle selectors that break when a site updates, Scrapling uses AI-like adaptive matching to find elements even when selectors change.

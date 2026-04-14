@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # nikilster/clawflows
 
+Prebuilt agent workflows. OpenClaw extensions. Deploy pre-built agent workflows.
+
+
+
 ## What It Does
 Superpowers for your OpenClaw. Powerful prebuilt agent workflows.
 

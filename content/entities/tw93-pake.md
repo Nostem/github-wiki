@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # tw93/Pake
 
-Turn any webpage into a lightweight desktop app with a single command. Uses Rust/Tauri under the hoo
+One command to convert any URL to desktop app. ~5MB bundle size (vs ~100MB Electron). Wrap web tools (Streamlit dashboards, n8n UIs) as native desktop apps.
+
+
+
+
 
 ## What It Does
 Turn any webpage into a lightweight desktop app with a single command. Uses Rust/Tauri under the hood for tiny bundle sizes (~5MB vs Electron's ~100MB). Supports custom window sizing, shortcuts, and always-on-top. Much faster and lighter than Electron alternatives.

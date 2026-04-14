@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # HKUDS/CLI-Anything
 
-Making ALL software agent-native via CLI. Provides a universal CLI interface that wraps any software
+Universal CLI wrapper for any software. Agent-native interface design. Make legacy GUI tools accessible to AI agents.
+
+
+
+
 
 ## What It Does
 Making ALL software agent-native via CLI. Provides a universal CLI interface that wraps any software tool for AI agent consumption. Turns GUI tools into agent-callable CLI commands.

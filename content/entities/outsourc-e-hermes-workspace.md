@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # outsourc-e/hermes-workspace
 
+Web UI for Hermes Agent. Chat, terminal, memory, skills. Access Hermes Agent through a web interface.
+
+
+
+
 ## What It Does
 Native web workspace for Hermes Agent. Chat, terminal, memory, skills, inspector — all in one web UI.
 

@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-08.md]
 
 # affaan-m-everything-claude-code
 
-Comprehensive toolkit and extension library for Claude Code — MCPs, global shortcuts, commands, hooks, rules, and templates. Makes Claude Code more powerful out of the box through better tool integration and workflow automation.
+MCP server integrations. Global keyboard shortcuts. Extend Claude Code for your specific project workflow.
+
+
+
 
 ## What It Does
 A massive collection of Claude Code enhancements including MCP servers, custom commands, workflow templates, hooks for automating responses, and rules for enforcing coding standards. Covers everything from basic shortcuts to complex multi-step workflows.

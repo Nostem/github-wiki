@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-08.md]
 
 # awesome-agent-skills
 
-Claude Code Skills and 1,000+ agent skills from official dev teams and the community — compatible with Codex, Antigravity, Gemini CLI, Cursor, and others.
+Official teams: Anthropic (Office Suite, web-artifacts-builder, MCP builder), Microsoft (133+ Azu.... Infrastructure: Cloudflare/Netlify deployment, Supabase/Neon/ClickHouse DB skills, DuckDB (attach.... Look up platform-specific installation paths when setting up skills on a new agent.
+
+
+
 
 ## What It Does
 Hand-picked collection of 1,000+ agent skills from official engineering teams (Anthropic, Microsoft, Google, HashiCorp, Stripe, etc.) and the community. Unlike bulk AI-generated repos, these are real-world tools. Provides exact skill installation paths for 7 platforms: Claude Code (.claude/skills/), Cursor (.cursor/skills/), GitHub Copilot (.github/skills/), Gemini CLI (.gemini/skills/), Windsurf (.windsurf/skills/), Codex (.agents/skills/). Enforces quality standards: third-person descriptions, progressive disclosure (<100 tokens metadata, <500 lines body), no absolute paths, scoped tool declarations.

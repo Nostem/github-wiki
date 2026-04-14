@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # hesamsheikh/awesome-openclaw-usecases
 
-Community collection of OpenClaw use cases for making life easier. Real-world examples of what peopl
+Real-world OpenClaw use cases. Community-contributed examples. Find inspiration for what to build with AI agents.
+
+
+
+
 
 ## What It Does
 Community collection of OpenClaw use cases for making life easier. Real-world examples of what people build with OpenClaw — from home automation to research to creative projects.

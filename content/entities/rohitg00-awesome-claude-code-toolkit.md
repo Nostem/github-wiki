@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-08.md]
 
 # awesome-claude-code-toolkit
 
-Most comprehensive toolkit for Claude Code — 135 agents, 35 skills, 42 commands, 150+ plugins, 19 hooks, 15 rules, 7 templates, and 8 MCP configs.
+176 plugins including pro-workflow, gstack, claude-cost-optimizer, AgentLint. 135 agent personas: language experts (25 languages), cloud architects, security auditors, SREs. Install pro-workflow for self-correcting memory + parallel worktree development.
+
+
+
 
 ## What It Does
 The most comprehensive Claude Code extension toolkit — 850+ files including 176 plugins, 135 specialized agent personas, 35 curated skills, 42 slash commands, 20 lifecycle hooks, 14 MCP configurations, and 7 CLAUDE.md templates. Goes beyond simple lists: includes production workflows like pro-workflow (self-correcting memory + parallel worktrees), gstack (Garry Tan's CEO/Eng/QA agent team), claude-code-mcp (run Claude Code as an MCP server within Claude Code), claude-cost-optimizer (30-70% cost reduction), and AgentLint (validates repo compatibility across 33 dimensions). Also provides access to 400k+ skills via SkillKit marketplace integration.

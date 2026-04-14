@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # openclaw-starter-kit
 
-The 24-Hour AI Butler — turns OpenClaw into a self-healing, multi-model autonomous system.
+Multi-model orchestration (fallback chains). Self-healing error recovery. Build fault-tolerant agent pipelines.
+
+
+
+
 
 ## What It Does
 A starter kit for building autonomous AI agents using OpenClaw. Demonstrates how to wire up multiple AI models into a self-healing pipeline — if one model fails or produces poor output, the system automatically retries with a different approach.

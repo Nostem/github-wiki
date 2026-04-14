@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # HKUDS/OpenSpace
 
+Agent optimization framework. Self-evolving capabilities. Optimize agent performance and cost.
+
+
+
+
 ## What It Does
 Make your agents smarter, low-cost, and self-evolving. Framework for agent optimization and self-improvement.
 

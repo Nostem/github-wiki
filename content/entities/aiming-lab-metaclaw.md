@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # aiming-lab/MetaClaw
 
+Meta-learning agent. Adaptive behavior. Build agents that learn and evolve from conversation.
+
+
+
+
 ## What It Does
 Just talk to your agent — it learns and evolves. Meta-learning agent that adapts its behavior based on interactions.
 

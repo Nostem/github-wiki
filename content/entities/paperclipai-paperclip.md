@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # paperclipai/paperclip
 
-Open-source orchestration platform for 'zero-human companies' — autonomous businesses run entirely b
+Agent orchestration for autonomous business operations. Task routing and assignment to specialized agents. Run autonomous customer support with AI agents handling tickets.
+
+
+
+
 
 ## What It Does
 Open-source orchestration platform for 'zero-human companies' — autonomous businesses run entirely by AI agents. Handles task routing, agent coordination, quality control, and human-in-the-loop escalation. Designed to run companies with minimal human oversight.

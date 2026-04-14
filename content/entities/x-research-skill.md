@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # x-research-skill
 
-X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings.
+Twitter/X search via API. Thread following and extraction. Research what's trending in AI/ML community.
+
+
+
+
 
 ## What It Does
 A skill that lets an agent search and synthesize X/Twitter content — follows threads, extracts key insights, builds sourced briefings from social media discussions. Designed for researching what's trending or what experts are saying on a topic.

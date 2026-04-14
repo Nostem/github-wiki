@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # awesome-nano-banana-pro-prompts
 
-Largest Nano Banana Pro prompt library — 10,000+ curated prompts across 16 languages for Google Gemini AI image generation.
+10,000+ curated prompts. 16 language support. Study prompt patterns for AI image generation.
+
+
+
+
 
 ## What It Does
 A massive collection of curated prompts for AI image generation via Google's Gemini. Organized with preview images so you can see what each prompt produces. Primarily a prompt library for a specific tool.

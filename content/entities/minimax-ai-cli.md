@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # MiniMax-AI/cli
 
+Text, image, video, speech, music generation. MiniMax AI CLI. Generate multi-modal content via CLI.
+
+
+
+
 ## What It Does
 Generate text, images, video, speech, and music by MiniMax. CLI for MiniMax AI services.
 

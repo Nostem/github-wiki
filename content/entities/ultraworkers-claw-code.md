@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-08.md]
 
 # ultraworkers-claw-code
 
-Rust-based AI coding agent — the fastest GitHub repo ever to hit 100k stars. Built on the oh-my-codex framework, designed for high-performance multi-agent code editing and execution.
+Rust-powered for speed and low memory footprint. Built on oh-my-codex framework. High-performance coding agent for large codebases.
+
+
+
 
 ## What It Does
 A coding agent written in Rust for speed and memory efficiency. Unlike Python-based agents, Claw Code leverages Rust's performance characteristics to handle large codebases and rapid tool execution without the overhead. Supports multi-agent coordination for parallel coding tasks.

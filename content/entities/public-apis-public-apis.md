@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-08.md]
 
 # public-apis
 
-A collective list of free APIs
+Hundreds of free APIs across 50+ categories. Each entry has: auth type, HTTPS indicator, CORS support flag. Find free weather, finance, geocoding, or stock market APIs for projects without signing up for 1....
+
+
+
+
 
 ## What It Does
 The definitive community-curated directory of free public APIs, maintained by APILayer and community contributors. Each entry includes metadata: auth type (apiKey, OAuth, None), HTTPS support, and CORS compatibility. Organized across 50+ categories including Animals, Development Tools, Finance/Crypto, Geocoding, Government Open Data, Health, Machine Learning, Media/Entertainment, Security, Social Media, and Transportation. Also features a programmatic API (davemachado/public-api) for accessing the list itself.

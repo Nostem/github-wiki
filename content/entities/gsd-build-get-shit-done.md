@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # gsd-build/get-shit-done
 
-Lightweight meta-prompting and context engineering framework. Provides structured prompt templates a
+Meta-prompting templates for consistent agent behavior. Context engineering patterns for optimal LLM input. Structure prompts for consistent agent output quality.
+
+
+
+
 
 ## What It Does
 Lightweight meta-prompting and context engineering framework. Provides structured prompt templates and context management for AI coding agents. Focuses on spec-driven development patterns with clean prompt engineering.

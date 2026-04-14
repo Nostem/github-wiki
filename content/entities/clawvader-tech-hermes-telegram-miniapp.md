@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # clawvader-tech/hermes-telegram-miniapp
 
+Telegram Mini App for Hermes. Terminal-style interface. Manage Hermes Agent from Telegram.
+
+
+
 ## What It Does
 Terminal-style Telegram Mini App for Hermes Agent. Chat, cron jobs, and system monitoring from Telegram.
 

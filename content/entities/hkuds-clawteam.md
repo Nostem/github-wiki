@@ -11,6 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # HKUDS/ClawTeam
 
+Swarm intelligence for agents. One-command full automation. Deploy coordinated agent swarms for complex tasks.
+
+
+
+
 ## What It Does
 Agent swarm intelligence. One command produces full automation through coordinated agent teams.
 

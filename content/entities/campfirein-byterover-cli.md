@@ -11,6 +11,10 @@ sources: [raw/stars/2026-04-13.md]
 
 # campfirein/byterover-cli
 
+Portable memory across agents. Persistent context. Share memory between different coding agents.
+
+
+
 ## What It Does
 Portable memory layer for autonomous coding agents. Persistent memory that works across different coding agent platforms.
 

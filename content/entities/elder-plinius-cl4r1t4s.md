@@ -11,7 +11,11 @@ sources: [raw/stars/2026-04-13.md]
 
 # elder-plinius/CL4R1T4S
 
-Leaked system prompts for ChatGPT, Gemini, Grok, Claude, Perplexity, Cursor, Devin, and more. Collec
+System prompts from 25+ AI products. ChatGPT, Claude, Gemini, Cursor, Devin. Study how major AI companies structure system prompts.
+
+
+
+
 
 ## What It Does
 Leaked system prompts for ChatGPT, Gemini, Grok, Claude, Perplexity, Cursor, Devin, and more. Collection of actual system prompts used by major AI products.

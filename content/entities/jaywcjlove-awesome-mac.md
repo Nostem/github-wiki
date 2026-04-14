@@ -11,7 +11,10 @@ sources: [raw/stars/2026-04-08.md]
 
 # jaywcjlove-awesome-mac
 
-This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+500+ quality-filtered macOS apps across 20+ categories. Emphasis on open-source and free software. Find native macOS alternatives to existing tools when switching platforms.
+
+
+
 
 ## What It Does
 The largest curated directory of high-quality macOS software, organized into categories: Reading/Writing Tools (text editors, markdown, ebooks, RSS), Developer Tools (IDEs, version control, virtualization, databases, hybrid frameworks), Terminal/CLI apps, Design/Prototyping, Communication/Team Tools, System Utilities (clipboard management, window tiling, security, Finder enhancements), and a growing AI Tools section. Uses a legend system: OSS (open source), Free, App Store, Native, and Awesome (links to sub-lists). Available in English, Chinese, Korean, and Japanese. Strictly anti-piracy.

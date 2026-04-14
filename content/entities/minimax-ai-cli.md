@@ -38,6 +38,8 @@ Generate text, images, video, speech, and music by MiniMax. CLI for MiniMax AI s
 
 ## Concepts
 - [[cli-universal]]
+- [[image-generation]]
+- [[video-generation]]
 ## Use Cases
 - Generate multi-modal content via CLI
 - Access MiniMax AI services from terminal

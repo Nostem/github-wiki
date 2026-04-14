@@ -33,6 +33,10 @@ Large prompt collections are useful for understanding what works in generative A
 - [[x1xhlol-system-prompts-and-models-of-ai-tools]] — different kind of prompt collection (system vs generation)
 - [[voltagent-awesome-agent-skills]] — skills for working with AI models
 
+
+## Concepts
+- [[image-generation]]
+
 ## Use Cases
 - Study prompt patterns for AI image generation
 - Find inspiration for visual project briefs

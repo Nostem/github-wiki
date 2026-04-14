@@ -34,6 +34,10 @@ World's first open-source agentic video production system. 12 pipelines, 52 tool
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[video-generation]]
+
 ## Use Cases
 - Automate video production with AI agents
 - Create videos from scripts autonomously

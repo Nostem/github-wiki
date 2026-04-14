@@ -34,6 +34,11 @@ Official MiniMax AI skills collection. Skills for text generation, image creatio
 - [[anthropics-claude-code]]
 - [[obra-superpowers]]
 
+
+## Concepts
+- [[image-generation]]
+- [[video-generation]]
+
 ## Use Cases
 - Generate content using MiniMax AI models
 - Access MiniMax capabilities through agent skills

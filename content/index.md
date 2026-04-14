@@ -2,9 +2,9 @@
 
 > Content catalog. Every wiki page listed under its type with a summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-13 | Total pages: 174
+> Last updated: 2026-04-13 | Total pages: 176
 
-## Concepts — 23 concepts
+## Concepts — 25 concepts
 
 - [[agent-memory]] — Persistent memory systems that let AI agents retain context, learn from past interactions, and improve retrieval quality over time — moving beyond stateless conversations.
 - [[agent-orchestration-platforms]] — Visual, managed, and low-code platforms for building, deploying, and coordinating AI agent workflows — lowering the barrier from code-first agent frameworks.
@@ -20,6 +20,7 @@
 - [[databases]] — Storage engines and data persistence options for applications, agents, and projects — from embedded SQLite to managed vector stores for AI workloads, with decision matrices for common use cases.
 - [[digital-garden]] — Knowledge systems built on bidirectional linking, graph structures, and organic growth — where notes interconnect freely, knowledge compounds over time, and both humans and AI agents can traverse meaning through relationships.
 - [[fine-tuning]] — Tools and platforms for training and fine-tuning open LLMs — making open-source models like Qwen, Llama, Gemma, DeepSeek, and Mistral better at specific domains or tasks through continued training.
+- [[image-generation]] — AI systems that create images from text prompts — from DALL-E 3 and Midjourney to open-source FLUX and Stable Diffusion, with prompt engineering tips and decision matrices.
 - [[knowledge-management]] — Personal knowledge bases, search engines, and structured information systems that help humans and AI agents organize, find, and connect information across documents and notes.
 - [[mcp-integrations]] — Model Context Protocol (MCP) servers and integrations that give AI agents structured access to external tools, data sources, and services through a standardized interface.
 - [[multi-agent-orchestration]] — Platforms and frameworks for coordinating multiple AI agents to work together on complex tasks — enabling swarm intelligence, role-based specialization, and hierarchical task decomposition.
@@ -28,6 +29,7 @@
 - [[social-media]] — Tools for social media research, content management, and platform interaction — from research skills that read Twitter threads to self-hosted scheduling platforms.
 - [[speech-audio]] — Speech recognition (speech-to-text) and audio processing tools — from OpenAI's Whisper foundation model to optimized inference pipelines.
 - [[ui-ux-design]] — AI-assisted design systems, visual generation tools, and design quality enforcement — moving beyond "AI slop" toward production-quality interfaces.
+- [[video-generation]] — AI systems that create, edit, and produce video content — from Sora and Runway to open-source CogVideoX, with production pipeline patterns and avatar/presenter tools.
 - [[web-scraping]] — Automated extraction of data from websites — from single pages to full-scale crawls. Used for research, data collection, and feeding content into knowledge systems.
 
 ## Entities (Repos) — 146 repos

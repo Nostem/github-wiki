@@ -34,6 +34,10 @@ Prompts are the interface to AI models — a good prompt can 10x what you get ou
 - [[youmind-openlab-awesome-nano-banana-pro-prompts]] — image generation prompts (different modality)
 - [[anthropics-skills]] — skill definitions that contain embedded prompts
 
+
+## Concepts
+- [[image-generation]]
+
 ## Use Cases
 - Find effective prompts for specific tasks
 - Study prompt patterns across models

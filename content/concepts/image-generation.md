@@ -31,6 +31,13 @@ AI systems that create images from text prompts, modify existing images, or gene
 
 ### Frontier Models (Highest Quality)
 
+**GPT-4o Native Image Generation (OpenAI)**
+- Multimodal image generation built into GPT-4o — not a separate model
+- Conversational: iterate on images through follow-up prompts
+- Handles text rendering, style transfer, inpainting within chat
+- Available in ChatGPT and via OpenAI API
+- Best for: conversational image editing, multi-turn refinement, when you want to talk through edits
+
 **DALL-E 3 (OpenAI)**
 - Text-to-image via ChatGPT or API
 - Strong prompt understanding, good text rendering
@@ -49,10 +56,25 @@ AI systems that create images from text prompts, modify existing images, or gene
 - Fast inference, especially Schnell variant
 - Best for: open-source deployment, production pipelines, when you need control over the model
 
-**Google Imagen 3**
-- High-quality text-to-image via Google AI Studio / Vertex AI
-- Strong photorealism and prompt understanding
-- Best for: Google ecosystem integration, enterprise use
+**Gemini 2.0 Flash (Google)**
+- Native multimodal image generation inside Gemini — generate and edit images conversationally
+- No separate image model needed — it's built into the language model
+- Good for iterative editing through conversation
+- Available in Gemini app, Google AI Studio, and via API
+- Best for: conversational image generation/editing, Google ecosystem
+
+**Imagen 3 (Google)**
+- Dedicated text-to-image model, highest quality in Google's lineup
+- Available through Google AI Studio and Vertex AI
+- Strong photorealism, prompt understanding, and style control
+- Best for: production-quality images in Google ecosystem, enterprise via Vertex AI
+
+**Grok / Aurora (xAI)**
+- Image generation via Grok on X/Twitter platform
+- Aurora model for photorealistic image creation
+- Less restrictive content policies than most competitors
+- Available through Grok chat interface and xAI API
+- Best for: quick generation within X/Twitter workflow, less filtered content
 
 **Ideogram**
 - Best-in-class text rendering in images (logos, signs, typography)
@@ -133,9 +155,12 @@ AI systems that create images from text prompts, modify existing images, or gene
 
 | Need | First Choice | Alternative |
 |------|-------------|-------------|
-| Quick generation (no setup) | ChatGPT (DALL-E 3) | Midjourney |
+| Quick generation (no setup) | ChatGPT (GPT-4o / DALL-E 3) | Gemini, Grok |
+| Conversational editing | GPT-4o native | Gemini 2.0 Flash |
 | Highest artistic quality | Midjourney | FLUX Pro |
 | Best text in images | Ideogram | DALL-E 3 |
+| Google ecosystem | Imagen 3 (AI Studio) | Gemini 2.0 Flash |
+| Less restrictive policies | Grok / Aurora | Midjourney |
 | Local / self-hosted | FLUX Schnell + ComfyUI | SDXL + Fooocus |
 | Production API | FLUX via Replicate | Fireworks AI |
 | Custom style training | SDXL LoRA | FLUX fine-tuning |

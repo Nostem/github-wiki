@@ -42,6 +42,7 @@ Memory is what separates "stateless query" from "persistent agent." Every agent 
 ## Concepts
 - [[agent-memory]]
 - [[digital-garden]]
+- [[databases]]
 ## Use Cases
 - Give any agent persistent memory across sessions
 - Build RAG pipelines for agent knowledge retrieval

@@ -38,6 +38,7 @@ CLI for Discord with SQLite backend. Search and manage Discord data locally.
 ## Concepts
 - [[social-media]]
 - [[browser-automation]]
+- [[databases]]
 ## Use Cases
 - Search Discord message history locally
 - Export and archive Discord data

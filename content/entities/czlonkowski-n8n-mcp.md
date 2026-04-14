@@ -49,6 +49,7 @@ This bridges the gap between "AI that can describe workflows" and "AI that can a
 
 ## Concepts
 - [[mcp-integrations]]
+- [[databases]]
 ## Use Cases
 - Build n8n workflows conversationally: describe what you want, agent creates and validates it
 - Audit existing n8n instances for leaked secrets and security misconfigurations

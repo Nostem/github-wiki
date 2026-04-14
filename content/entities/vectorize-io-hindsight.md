@@ -38,6 +38,7 @@ Agent memory that learns. Adaptive memory system that improves retrieval quality
 
 ## Concepts
 - [[agent-memory]]
+- [[databases]]
 ## Use Cases
 - Build agents with memory that improves over time
 - Implement adaptive context retrieval for long-running agents

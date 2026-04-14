@@ -40,6 +40,7 @@ Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas,
 
 ## Concepts
 - [[knowledge-management]]
+- [[digital-garden]]
 ## Use Cases
 - Let AI agents manage your Obsidian vault
 - Automate note organization and linking

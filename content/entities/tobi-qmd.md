@@ -40,6 +40,7 @@ Mini CLI search engine for your docs, knowledge bases, meeting notes. Fast full-
 
 ## Concepts
 - [[knowledge-management]]
+- [[digital-garden]]
 ## Use Cases
 - Search across documentation and meeting notes
 - Find relevant content in large knowledge bases

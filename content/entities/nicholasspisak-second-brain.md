@@ -38,6 +38,7 @@ LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's 
 
 ## Concepts
 - [[knowledge-management]]
+- [[digital-garden]]
 ## Use Cases
 - Build a self-maintaining knowledge base in Obsidian
 - Auto-organize notes with AI

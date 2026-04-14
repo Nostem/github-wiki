@@ -90,3 +90,11 @@
 - queries/building-a-web-scraping-pipeline.md — Scrapling, agent-browser, Hyperbrowser
 - queries/creating-agent-skills-and-plugins.md — Anthropic spec, best practices, SkillKit
 - Each page includes: recommended stack, architecture decision tree, related concepts
+
+## [2026-04-13] create | Concept: digital-garden
+- Knowledge systems built on bidirectional linking, graph structures, and organic growth
+- Related repos: second-brain, obsidian-skills, obsidian-mind, wiki-os, qmd, cognee
+- Covers: LLM-curated gardens, agent-native vaults, graph visualization, structured graphs
+- Includes comparison table: digital garden vs traditional KB
+- Backlinks added to 6 entity pages
+- Total pages: 173 (146 entities + 22 concepts + 5 queries)

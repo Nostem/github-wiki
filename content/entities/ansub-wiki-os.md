@@ -38,6 +38,7 @@ Open-source web app for search, browsing, graphs, and local knowledge exploratio
 
 ## Concepts
 - [[knowledge-management]]
+- [[digital-garden]]
 ## Use Cases
 - Browse personal knowledge bases via web UI
 - Visualize knowledge graph connections

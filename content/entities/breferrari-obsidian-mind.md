@@ -39,6 +39,7 @@ An Obsidian vault that gives AI coding agents persistent memory. Works with Clau
 ## Concepts
 - [[agent-memory]]
 - [[knowledge-management]]
+- [[digital-garden]]
 ## Use Cases
 - Give coding agents persistent memory through Obsidian vaults
 - Share project context across different agents

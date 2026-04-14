@@ -2,9 +2,9 @@
 
 > Content catalog. Every wiki page listed under its type with a summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-13 | Total pages: 172
+> Last updated: 2026-04-13 | Total pages: 173
 
-## Concepts — 21 concepts
+## Concepts — 22 concepts
 
 - [[agent-memory]] — Persistent memory systems that let AI agents retain context, learn from past interactions, and improve retrieval quality over time — moving beyond stateless conversations.
 - [[agent-orchestration-platforms]] — Visual, managed, and low-code platforms for building, deploying, and coordinating AI agent workflows — lowering the barrier from code-first agent frameworks.
@@ -17,6 +17,7 @@
 - [[claude-code-subagents]] — A **subagent** is a specialized Claude Code agent configured for a specific domain or task — e.g., a frontend developer subagent, a DevOps subagent. Rather than a general-purpose agent that does everything poorly, a subagent is an expert in one area.
 - [[cli-universal]] — Making existing software agent-accessible through unified command-line interfaces — wrapping platforms, services, and tools into CLI commands that AI agents can invoke.
 - [[coding-agents]] — Autonomous agents specialized for software development tasks — understanding codebases, writing and editing files, running commands, handling git workflows, and completing multi-step coding tasks via natural language instructions.
+- [[digital-garden]] — Knowledge systems built on bidirectional linking, graph structures, and organic growth — where notes interconnect freely, knowledge compounds over time, and both humans and AI agents can traverse meaning through relationships.
 - [[fine-tuning]] — Tools and platforms for training and fine-tuning open LLMs — making open-source models like Qwen, Llama, Gemma, DeepSeek, and Mistral better at specific domains or tasks through continued training.
 - [[knowledge-management]] — Personal knowledge bases, search engines, and structured information systems that help humans and AI agents organize, find, and connect information across documents and notes.
 - [[mcp-integrations]] — Model Context Protocol (MCP) servers and integrations that give AI agents structured access to external tools, data sources, and services through a standardized interface.

@@ -29,6 +29,7 @@ A digital garden is a knowledge base that grows like a garden rather than being 
 - [[ansub-wiki-os]] — Open-source web app for search, browsing, graphs, and local knowledge exploration with graph visualization
 - [[tobi-qmd]] — Mini CLI search engine for docs, knowledge bases, and meeting notes with fast full-text search
 - [[topoteretes-cognee]] — Knowledge engine that builds queryable graph storage for AI agent memory — structured memory as a graph, not flat text
+- [[hyperbrowserai-hyperbrowser-app-examples]] — Includes HyperGraph, Hyperbrowser's structured skill tree system that creates navigable knowledge graphs from technical topics — "linked, composable skill nodes where each node is one complete thought" for AI agents
 
 ## Key Approaches
 
@@ -56,6 +57,13 @@ A digital garden is a knowledge base that grows like a garden rather than being 
 - Handles scale better than flat file gardens
 - Best for: complex domains where relationship queries matter more than browsing
 
+**Agent-native skill graphs (HyperGraph):**
+- Creates navigable knowledge graphs from technical topics
+- Each node is one complete thought, linked and composable
+- Agents type a topic, get a skill graph, click nodes to go deeper
+- Replaces flat SKILL.md files with graph-based skill trees
+- Best for: agent skill/knowledge that benefits from graph traversal
+
 **Fast garden search (qmd):**
 - Full-text search across your entire garden
 - No server needed, runs locally
@@ -68,6 +76,7 @@ A digital garden is a knowledge base that grows like a garden rather than being 
 - **obsidian-mind** — agent memory backed by an Obsidian vault
 - **wiki-os** — visual exploration of garden structure
 - **Cognee** — complex knowledge domains needing graph queries
+- **HyperGraph** — agent skill knowledge that benefits from graph traversal over flat files
 - **qmd** — fast search across a large garden
 
 ## Digital Garden vs Traditional KB
@@ -84,7 +93,8 @@ A digital garden is a knowledge base that grows like a garden rather than being 
 ## Ecosystem
 
 - Obsidian: [[kepano-obsidian-skills]], [[nicholasspisak-second-brain]], [[breferrari-obsidian-mind]]
+- Agent skill graphs: [[hyperbrowserai-hyperbrowser-app-examples]] (HyperGraph)
 - Visualization: [[ansub-wiki-os]]
 - Search: [[tobi-qmd]]
 - Graph storage: [[topoteretes-cognee]], [[vectorize-io-hindsight]]
-- Related concepts: [[knowledge-management]] (broader KB systems), [[agent-memory]] (agent-specific memory), [[presentation-markdown]] (garden output formats)
+- Related concepts: [[knowledge-management]] (broader KB systems), [[agent-memory]] (agent-specific memory), [[browser-automation]] (HyperGraph lives in browser infra), [[presentation-markdown]] (garden output formats)

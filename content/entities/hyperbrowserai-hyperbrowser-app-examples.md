@@ -25,6 +25,7 @@ Sample applications built on Hyperbrowser — a browser automation platform. Sho
 - Web scraping patterns
 - Interactive web app examples
 - Screenshot and extraction workflows
+- HyperGraph integration — Hyperbrowser's structured skill tree system for AI agents that creates navigable knowledge graphs from technical topics instead of flat SKILL.md files
 
 ## Tech Stack
 - Language: TypeScript
@@ -41,6 +42,7 @@ Browser automation is a core building block — whether for scraping, testing, o
 
 ## Concepts
 - [[browser-automation]]
+- [[digital-garden]]
 ## Use Cases
 - Build web scrapers for wiki source collection
 - Automate web interactions for research

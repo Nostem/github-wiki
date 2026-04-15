@@ -141,3 +141,15 @@
 
 - Backlinks added to 5 entity pages
 - Total pages: 176 (146 entities + 25 concepts + 5 queries)
+
+## [2026-04-15] ingest | coollabsio/coolify
+- Created entity page: entities/coollabsio-coolify.md
+- Source: GitHub repo coollabsio/coolify (52.6k stars, Apache-2.0)
+- Key features: 280+ one-click services, zero vendor lock-in, multi-server SSH management, Docker Compose, auto SSL
+
+## [2026-04-15] create | Concept: deployment-platforms
+- Created concept page: concepts/deployment-platforms.md
+- Covers: managed/serverless (Vercel, Netlify, Cloudflare Pages, Render, Railway, Fly.io), self-hosted PaaS (Coolify, CapRover, Dokku, Portainer), raw VPS (Hetzner, DO, Linode)
+- Includes decision matrix mapping situation → recommended platform
+- Backlinks: coollabsio-coolify, databases
+- Updated index.md: 178 pages (147 entities + 26 concepts + 5 queries)

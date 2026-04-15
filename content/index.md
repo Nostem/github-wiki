@@ -2,9 +2,9 @@
 
 > Content catalog. Every wiki page listed under its type with a summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-13 | Total pages: 176
+> Last updated: 2026-04-15 | Total pages: 178
 
-## Concepts — 25 concepts
+## Concepts — 26 concepts
 
 - [[agent-memory]] — Persistent memory systems that let AI agents retain context, learn from past interactions, and improve retrieval quality over time — moving beyond stateless conversations.
 - [[agent-orchestration-platforms]] — Visual, managed, and low-code platforms for building, deploying, and coordinating AI agent workflows — lowering the barrier from code-first agent frameworks.
@@ -18,6 +18,7 @@
 - [[cli-universal]] — Making existing software agent-accessible through unified command-line interfaces — wrapping platforms, services, and tools into CLI commands that AI agents can invoke.
 - [[coding-agents]] — Autonomous agents specialized for software development tasks — understanding codebases, writing and editing files, running commands, handling git workflows, and completing multi-step coding tasks via natural language instructions.
 - [[databases]] — Storage engines and data persistence options for applications, agents, and projects — from embedded SQLite to managed vector stores for AI workloads, with decision matrices for common use cases.
+- [[deployment-platforms]] — Full map of deployment options from managed serverless (Vercel, Netlify, Cloudflare) to self-hosted PaaS (Coolify) to raw VPS — with decision matrix for picking the right tier.
 - [[digital-garden]] — Knowledge systems built on bidirectional linking, graph structures, and organic growth — where notes interconnect freely, knowledge compounds over time, and both humans and AI agents can traverse meaning through relationships.
 - [[fine-tuning]] — Tools and platforms for training and fine-tuning open LLMs — making open-source models like Qwen, Llama, Gemma, DeepSeek, and Mistral better at specific domains or tasks through continued training.
 - [[image-generation]] — AI systems that create images from text prompts — from DALL-E 3 and Midjourney to open-source FLUX and Stable Diffusion, with prompt engineering tips and decision matrices.
@@ -34,6 +35,7 @@
 
 ## Entities (Repos) — 146 repos
 
+- [[coollabsio-coolify]] — Self-hostable PaaS with 280+ one-click services, zero vendor lock-in, multi-server management, and Git-native deploys — the open-source alternative to Vercel, Netlify, and Heroku. (52,600 stars)
 - [[codecrafters-io-build-your-own-x]] — 60+ technology categories with curated tutorial links. Languages span C, C++, Rust, Go, Python, JavaScript, Haskell, OCaml, Java, Ruby, Assembly. Deep-dive into how Docker containers actually work by building one in <100 lines of Go. (487,383 stars)
 - [[public-apis-public-apis]] — Hundreds of free APIs across 50+ categories. Each entry has: auth type, HTTPS indicator, CORS support flag. Find free weather, finance, geocoding, or stock market APIs for projects without signing up for 1.... (420,163 stars)
 - [[openclaw-openclaw]] — Cross-platform: macOS, Windows, Linux. 5400+ community skills (and growing). Personal AI assistant with full data privacy. (351,825 stars)

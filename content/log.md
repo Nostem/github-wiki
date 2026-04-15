@@ -98,3 +98,46 @@
 - Includes comparison table: digital garden vs traditional KB
 - Backlinks added to 6 entity pages
 - Total pages: 173 (146 entities + 22 concepts + 5 queries)
+
+## [2026-04-13] update | HyperGraph backfill into digital-garden
+- Hyperbrowser's HyperGraph feature: structured skill trees for AI agents
+- "Linked, composable skill nodes where each node is one complete thought"
+- Added to digital-garden concept: related repos, key approaches (5th approach), when-to-use, ecosystem
+- Updated hyperbrowser entity page: key features section + digital-garden concept backlink
+- HyperGraph replaces flat SKILL.md files with graph-based knowledge navigation for agents
+
+## [2026-04-13] create | Concept: databases
+- Comprehensive database reference covering embedded, relational, vector, key-value, search, managed
+- Embedded: SQLite, DuckDB
+- Relational: PostgreSQL, MySQL
+- Vector: pgvector, ChromaDB, Qdrant, Weaviate
+- Cache: Redis, KeyDB
+- Search: Elasticsearch, Meilisearch, Pagefind, SQLite FTS5
+- Managed: Supabase, Neon, Turso, PlanetScale, Convex
+- Includes decision matrix mapping needs to first-choice and alternative
+- Backlinks added to 5 entity pages (discrawl, n8n-mcp, postiz-app, cognee, hindsight)
+- Total pages: 174 (146 entities + 23 concepts + 5 queries)
+
+## [2026-04-13] create | Concepts: image-generation, video-generation
+
+### image-generation
+- Covers text-to-image, image-to-image, inpainting, upscaling, control/composition
+- Frontier: DALL-E 3, Midjourney, FLUX, Imagen 3, Ideogram
+- Open source: Stable Diffusion 3/SDXL, ComfyUI, Fooocus, AUTOMATIC1111
+- API: Replicate, Fireworks AI, Together AI
+- Specialized: Leonardo.ai, Playground AI, Adobe Firefly
+- Includes prompt engineering tips table and decision matrix
+- Related repos: awesome-nano-banana-pro-prompts, f-prompts-chat, minimax-ai-cli, minimax-ai-skills
+
+### video-generation
+- Covers text-to-video, image-to-video, AI editing, production pipelines, avatars, motion graphics
+- Frontier: Sora, Veo 2, Runway Gen-3, Kling, Pika, MiniMax
+- Open source: Stable Video Diffusion, CogVideoX, AnimateDiff, Mochi
+- Production: OpenMontage, Opus Clip, Descript, CapCut, Pictory
+- Avatars: HeyGen, Synthesia, D-ID
+- Motion graphics: Remotion, Rive, Lottie
+- Includes production pipeline example and decision matrix
+- Related repos: OpenMontage, minimax-ai-cli, minimax-ai-skills
+
+- Backlinks added to 5 entity pages
+- Total pages: 176 (146 entities + 25 concepts + 5 queries)

@@ -37,7 +37,6 @@ Drag-and-drop UI for building AI agents and LLM workflows. Visual canvas for con
 Visual agent builders lower the barrier for experimentation. Good for prototyping workflows before implementing them in code.
 
 ## Related
-- [[anthropics-claude-code]]
 - [[shubhamsaboo-awesome-llm-apps]]
 - [[czlonkowski-n8n-mcp]]
 

@@ -34,8 +34,6 @@ Autonomous agent for deep financial research. Analyzes SEC filings, earnings cal
 21,250 stars — relevant to agent/AI ecosystem.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 ## Use Cases
 - Automate fundamental analysis of public companies

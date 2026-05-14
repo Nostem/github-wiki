@@ -32,8 +32,6 @@ Turn Claude Code/OpenClaw into your local Lovart. Local AI design tool via MCP.
 575 stars.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 
 ## Concepts

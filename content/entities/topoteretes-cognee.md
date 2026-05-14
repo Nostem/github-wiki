@@ -34,8 +34,7 @@ Cognee is a memory layer for AI agents. Instead of stuffing all context into eve
 Memory is what separates "stateless query" from "persistent agent." Every agent project eventually hits the context window limit — cognee is a concrete solution. The "6 lines" claim is compelling: if it delivers on simplicity, it's the go-to memory layer for agent projects. Worth comparing to building custom retrieval pipelines.
 
 ## Related
-- [[qwenlm-qwen-agent]] — agent framework that likely needs memory like this
-- [[obra-superpowers]] — agent methodology; memory is a core requirement
+- [[qwenlm-qwen-agent]] — agent framework that likely needs memory like this — agent methodology; memory is a core requirement
 - [[shubhamsaboo-awesome-llm-apps]] — LLM app patterns that often need memory
 
 

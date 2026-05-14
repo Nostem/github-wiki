@@ -38,8 +38,7 @@ The definitive community-curated directory of free public APIs, maintained by AP
 When you need an external data source for any project, this is the first place to look. The auth/HTTPS/CORS metadata per entry saves time — no need to click through to docs just to check if an API is free and supports HTTPS. Relevant for anything from the trading bot (finance APIs) to the agent system (search/scraping APIs).
 
 ## Related
-- [[anthropics-skills]] (agent skills that use APIs)
-- [[obra-superpowers]] (workflow context for API integration)
+- [[anthropics-skills]] (agent skills that use APIs) (workflow context for API integration)
 
 ## Use Cases
 - Find free weather, finance, geocoding, or stock market APIs for projects without signing up for 10 services

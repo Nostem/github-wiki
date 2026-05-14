@@ -33,8 +33,6 @@ Multi-backend whisper app. Blazing fast, Mac-arm optimized, easy install. Input 
 1,239 stars.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 
 ## Concepts

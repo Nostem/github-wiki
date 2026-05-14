@@ -35,8 +35,6 @@ Microsoft's official inference framework for 1-bit LLMs. Enables running large l
 38,200 stars — relevant to AI agent ecosystem.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 ## Use Cases
 - Run very large models on minimal hardware

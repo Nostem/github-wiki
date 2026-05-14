@@ -35,8 +35,6 @@ Agent orchestration platform for Claude. Deploy intelligent multi-agent workflow
 31,502 stars — relevant to AI agent ecosystem.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 
 ## Concepts

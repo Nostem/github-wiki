@@ -36,8 +36,6 @@ Lightweight meta-prompting and context engineering framework. Provides structure
 Context engineering is the next frontier after prompt engineering. This tool focuses on structuring what goes into the context window, not just the prompt.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 - [[rohitg00-awesome-claude-code-toolkit]]
 
 ## Use Cases

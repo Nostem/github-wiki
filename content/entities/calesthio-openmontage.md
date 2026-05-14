@@ -31,8 +31,6 @@ World's first open-source agentic video production system. 12 pipelines, 52 tool
 1,551 stars.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 
 ## Concepts

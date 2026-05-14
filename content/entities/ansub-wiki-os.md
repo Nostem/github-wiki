@@ -32,8 +32,6 @@ Open-source web app for search, browsing, graphs, and local knowledge exploratio
 105 stars.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 
 ## Concepts

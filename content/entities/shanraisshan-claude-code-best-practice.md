@@ -37,7 +37,6 @@ Best practices documentation from real usage is more valuable than official docs
 
 ## Related
 - [[anthropics-claude-code]]
-- [[obra-superpowers]]
 - [[rohitg00-awesome-claude-code-toolkit]]
 
 ## Use Cases

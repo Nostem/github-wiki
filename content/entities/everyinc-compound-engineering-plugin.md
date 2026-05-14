@@ -35,7 +35,6 @@ Compound Engineering plugin for Claude Code, Codex, and more. Enables chaining m
 
 ## Related
 - [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 ## Use Cases
 - Chain multiple coding tasks into a single workflow

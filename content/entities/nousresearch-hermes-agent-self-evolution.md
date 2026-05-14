@@ -32,8 +32,6 @@ Evolutionary self-improvement for Hermes Agent. Optimize skills, prompts, and be
 1,494 stars.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 
 ## Concepts

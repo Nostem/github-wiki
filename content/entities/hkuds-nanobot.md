@@ -35,8 +35,6 @@ Ultra-lightweight personal AI agent. Minimal footprint agent that runs locally w
 39,299 stars — relevant to AI agent ecosystem.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 ## Use Cases
 - Run a personal AI agent on low-resource machines

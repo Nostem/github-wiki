@@ -32,8 +32,6 @@ Claude Autoresearch Skill — autonomous goal-directed iteration for Claude Code
 3,621 stars.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 
 ## Concepts

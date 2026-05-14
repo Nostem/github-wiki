@@ -32,8 +32,6 @@ LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's 
 116 stars.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 
 ## Concepts

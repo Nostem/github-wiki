@@ -35,8 +35,6 @@ macOS system monitor in your menu bar. Shows CPU, GPU, memory, disk, network, ba
 37,859 stars — relevant to AI agent ecosystem.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 ## Use Cases
 - Monitor system resources while running heavy AI workloads

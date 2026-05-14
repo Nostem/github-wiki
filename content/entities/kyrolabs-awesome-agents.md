@@ -32,8 +32,6 @@ Awesome list of AI agents. Curated directory of agent frameworks, tools, and app
 2,160 stars.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 ## Use Cases
 - Discover AI agent frameworks and tools

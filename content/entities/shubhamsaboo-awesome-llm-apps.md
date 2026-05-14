@@ -33,8 +33,7 @@ A reference collection for LLM application architecture. Each entry shows a spec
 ## Why I Starred It
 100k stars means this is the reference many developers start from when building LLM apps. Good for understanding the landscape of what's been built and what patterns have community traction. Useful when starting a new project to see what approaches have been validated.
 
-## Related
-- [[obra-superpowers]] — methodology for building with these patterns
+## Related — methodology for building with these patterns
 - [[qwenlm-qwen-agent]] — agent framework that implements similar patterns
 - [[public-apis]] — external data sources these apps often integrate with
 

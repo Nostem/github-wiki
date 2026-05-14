@@ -153,3 +153,11 @@
 - Includes decision matrix mapping situation → recommended platform
 - Backlinks: coollabsio-coolify, databases
 - Updated index.md: 178 pages (147 entities + 26 concepts + 5 queries)
+
+## [2026-05-14] ingest | 56 new starred repos
+- Fetched all 198 starred repos via GitHub API (2 pages)
+- Compared against 147 existing entity pages — found 56 new repos
+- Fetched README content for top 25 repos (10k+ stars)
+- Created 56 new entity pages with descriptions from READMEs/GitHub metadata
+- Top new repos by stars: trimstray/the-book-of-secret-knowledge (220k★), multica-ai/andrej-karpathy-skills (129k★), godotengine/godot (110k★), garrytan/gstack (96k★), syncthing/syncthing (83k★), mattpocock/skills (80k★), Stirling-Tools/Stirling-PDF (78k★), pi-hole/pi-hole (58k★), jellyfin/jellyfin (51k★), bevyengine/bevy (46k★)
+- Updated index.md: 234 pages (203 entities + 26 concepts + 5 queries)

@@ -34,8 +34,6 @@ Leaked system prompts for ChatGPT, Gemini, Grok, Claude, Perplexity, Cursor, Dev
 14,139 stars — relevant to agent/AI ecosystem.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 ## Use Cases
 - Study how major AI companies structure system prompts

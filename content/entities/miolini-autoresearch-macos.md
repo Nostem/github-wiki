@@ -32,8 +32,6 @@ AI agents running research on single-GPU nanochat training, adopted for macOS. m
 1,936 stars.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 ## Use Cases
 - Run autonomous research on macOS with Apple Silicon

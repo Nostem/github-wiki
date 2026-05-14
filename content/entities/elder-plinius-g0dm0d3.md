@@ -31,8 +31,6 @@ Liberated AI chat — jailbreak techniques and unrestricted AI interaction resea
 4,409 stars.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 ## Use Cases
 - Research LLM safety boundaries

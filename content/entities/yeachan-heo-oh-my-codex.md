@@ -35,7 +35,6 @@ Oh My Codex (OmX) — add hooks, agent teams, HUDs, and more to Codex. Extension
 
 ## Related
 - [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 ## Use Cases
 - Add custom hooks to Codex agent workflows

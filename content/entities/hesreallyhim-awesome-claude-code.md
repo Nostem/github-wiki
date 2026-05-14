@@ -35,7 +35,6 @@ Curated list of awesome Claude Code skills, hooks, slash-commands, agent orchest
 
 ## Related
 - [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 ## Use Cases
 - Discover Claude Code extensions for specific workflows

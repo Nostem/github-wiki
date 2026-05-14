@@ -34,9 +34,7 @@ Deer Flow is a research-oriented agent framework designed for long-horizon tasks
 ## Why I Starred It
 Most agents are evaluated on short tasks. Deer Flow is explicitly designed for research tasks that take hours — this is a harder problem (memory, continuity, error recovery over long periods). The #1 GitHub trending spot after 2.0 launch signals real community validation.
 
-## Related
-- [[obra-superpowers]] — similar long-horizon agent design
-- [[anthropics-claude-code]] — short-horizon coding agent (different design goals)
+## Related — similar long-horizon agent design — short-horizon coding agent (different design goals)
 - [[claude-code-subagents]] — subagent patterns that Deer Flow implements
 - [[autonomous-research]] — concept page for research-focused agents
 

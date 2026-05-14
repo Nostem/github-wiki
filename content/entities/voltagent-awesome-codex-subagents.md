@@ -33,7 +33,6 @@ Collection of 130+ specialized Codex subagents covering development, testing, De
 
 ## Related
 - [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 ## Use Cases
 - Find pre-built subagents for Codex CLI

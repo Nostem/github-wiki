@@ -34,8 +34,6 @@ Agent-native personalized learning assistant. Adapts teaching style to individua
 17,481 stars — relevant to agent/AI ecosystem.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 ## Use Cases
 - Learn new technologies with an AI tutor that adapts to your pace

@@ -31,8 +31,6 @@ Structured prompts, vault templates, and archive guides for AI-assisted genealog
 1,081 stars.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 ## Use Cases
 - Research family history with AI assistance

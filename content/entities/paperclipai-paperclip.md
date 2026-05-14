@@ -38,7 +38,6 @@ The 'zero-human company' concept is extreme but the orchestration patterns are u
 ## Related
 - [[FlowiseAI/Flowise]]
 - [[paperclipai/paperclip]]
-- [[obra-superpowers]]
 
 
 ## Concepts

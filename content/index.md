@@ -2,26 +2,26 @@
 
 > Content catalog. Every wiki page listed under its type with a summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-15 | Total pages: 178
+> Last updated: 2026-05-14 | Total pages: 234
 
 ## Concepts — 26 concepts
 
 - [[agent-memory]] — Persistent memory systems that let AI agents retain context, learn from past interactions, and improve retrieval quality over time — moving beyond stateless conversations.
 - [[agent-orchestration-platforms]] — Visual, managed, and low-code platforms for building, deploying, and coordinating AI agent workflows — lowering the barrier from code-first agent frameworks.
 - [[agent-self-improvement]] — Frameworks and techniques for AI agents that optimize their own behavior, evolve their skills, and improve performance over time without manual intervention.
-- [[agent-skills]] — A **skill** is a modular unit of capability that an AI agent can invoke to perform a specific task. Skills have a defined interface, implementation, and schema — making them composable building blocks for agentic systems.
+- [[agent-skills]] — A **skill** is a modular unit of capability that an AI agent can invoke to perform a specific task. Skills have a defined interface, implementation, and schema — making them composable building blocks
 - [[ai-trading]] — Autonomous and agent-assisted systems for financial market analysis, portfolio management, and trade execution — powered by LLMs, quantitative models, and multi-agent architectures.
-- [[autonomous-research]] — AI agents that autonomously conduct research tasks — gathering information, synthesizing findings, and producing reports with minimal human intervention. These agents handle long-horizon tasks where planning, adaptation, and multi-source synthesis are required.
-- [[browser-automation]] — Programmatic control of web browsers for tasks like scraping, testing, form filling, and agent-driven web interaction. Goes beyond simple HTTP requests by executing JavaScript, handling dynamic content, and simulating real user behavior.
-- [[claude-code-extensions]] — Skills, best practices, and extensions for Claude Code — the ecosystem of tools, prompts, and frameworks that extend Anthropic's official CLI coding agent into a more powerful, specialized, or workflow-integrated system.
-- [[claude-code-subagents]] — A **subagent** is a specialized Claude Code agent configured for a specific domain or task — e.g., a frontend developer subagent, a DevOps subagent. Rather than a general-purpose agent that does everything poorly, a subagent is an expert in one area.
+- [[autonomous-research]] — AI agents that autonomously conduct research tasks — gathering information, synthesizing findings, and producing reports with minimal human intervention. These agents handle long-horizon tasks where p
+- [[browser-automation]] — Programmatic control of web browsers for tasks like scraping, testing, form filling, and agent-driven web interaction. Goes beyond simple HTTP requests by executing JavaScript, handling dynamic conten
+- [[claude-code-extensions]] — Skills, best practices, and extensions for Claude Code — the ecosystem of tools, prompts, and frameworks that extend Anthropic's official CLI coding agent into a more powerful, specialized, or workflo
+- [[claude-code-subagents]] — A **subagent** is a specialized Claude Code agent configured for a specific domain or task — e.g., a frontend developer subagent, a DevOps subagent. Rather than a general-purpose agent that does every
 - [[cli-universal]] — Making existing software agent-accessible through unified command-line interfaces — wrapping platforms, services, and tools into CLI commands that AI agents can invoke.
-- [[coding-agents]] — Autonomous agents specialized for software development tasks — understanding codebases, writing and editing files, running commands, handling git workflows, and completing multi-step coding tasks via natural language instructions.
-- [[databases]] — Storage engines and data persistence options for applications, agents, and projects — from embedded SQLite to managed vector stores for AI workloads, with decision matrices for common use cases.
-- [[deployment-platforms]] — Full map of deployment options from managed serverless (Vercel, Netlify, Cloudflare) to self-hosted PaaS (Coolify) to raw VPS — with decision matrix for picking the right tier.
-- [[digital-garden]] — Knowledge systems built on bidirectional linking, graph structures, and organic growth — where notes interconnect freely, knowledge compounds over time, and both humans and AI agents can traverse meaning through relationships.
+- [[coding-agents]] — Autonomous agents specialized for software development tasks — understanding codebases, writing and editing files, running commands, handling git workflows, and completing multi-step coding tasks via 
+- [[databases]] — Storage engines and data persistence options for applications, agents, and projects — from embedded single-file databases to managed vector stores for AI workloads.
+- [[deployment-platforms]] — The ecosystem of services and tools that take your code from a git repository to a running, publicly accessible application. Ranges from zero-config managed platforms (you push, they handle everything
+- [[digital-garden]] — Knowledge systems built on bidirectional linking, graph structures, and organic growth — where notes interconnect freely, knowledge compounds over time, and both humans and AI agents can traverse mean
 - [[fine-tuning]] — Tools and platforms for training and fine-tuning open LLMs — making open-source models like Qwen, Llama, Gemma, DeepSeek, and Mistral better at specific domains or tasks through continued training.
-- [[image-generation]] — AI systems that create images from text prompts — from DALL-E 3 and Midjourney to open-source FLUX and Stable Diffusion, with prompt engineering tips and decision matrices.
+- [[image-generation]] — AI systems that create images from text prompts, modify existing images, or generate variations — from photorealistic renders to artistic illustrations, logos, and UI mockups.
 - [[knowledge-management]] — Personal knowledge bases, search engines, and structured information systems that help humans and AI agents organize, find, and connect information across documents and notes.
 - [[mcp-integrations]] — Model Context Protocol (MCP) servers and integrations that give AI agents structured access to external tools, data sources, and services through a standardized interface.
 - [[multi-agent-orchestration]] — Platforms and frameworks for coordinating multiple AI agents to work together on complex tasks — enabling swarm intelligence, role-based specialization, and hierarchical task decomposition.
@@ -30,38 +30,47 @@
 - [[social-media]] — Tools for social media research, content management, and platform interaction — from research skills that read Twitter threads to self-hosted scheduling platforms.
 - [[speech-audio]] — Speech recognition (speech-to-text) and audio processing tools — from OpenAI's Whisper foundation model to optimized inference pipelines.
 - [[ui-ux-design]] — AI-assisted design systems, visual generation tools, and design quality enforcement — moving beyond "AI slop" toward production-quality interfaces.
-- [[video-generation]] — AI systems that create, edit, and produce video content — from Sora and Runway to open-source CogVideoX, with production pipeline patterns and avatar/presenter tools.
+- [[video-generation]] — AI systems that create, edit, and produce video content — from text-to-video generation to automated production pipelines, motion graphics, and long-form editing with AI agents.
 - [[web-scraping]] — Automated extraction of data from websites — from single pages to full-scale crawls. Used for research, data collection, and feeding content into knowledge systems.
 
-## Entities (Repos) — 146 repos
+## Entities (Repos) — 203 repos
 
-- [[coollabsio-coolify]] — Self-hostable PaaS with 280+ one-click services, zero vendor lock-in, multi-server management, and Git-native deploys — the open-source alternative to Vercel, Netlify, and Heroku. (52,600 stars)
-- [[codecrafters-io-build-your-own-x]] — 60+ technology categories with curated tutorial links. Languages span C, C++, Rust, Go, Python, JavaScript, Haskell, OCaml, Java, Ruby, Assembly. Deep-dive into how Docker containers actually work by building one in <100 lines of Go. (487,383 stars)
-- [[public-apis-public-apis]] — Hundreds of free APIs across 50+ categories. Each entry has: auth type, HTTPS indicator, CORS support flag. Find free weather, finance, geocoding, or stock market APIs for projects without signing up for 1.... (420,163 stars)
+- [[codecrafters-io-build-your-own-x]] — 60+ technology categories with curated tutorial links. Languages span C, C++, Rust, Go, Python, JavaScript, Haskell, OCaml, Java, Ruby, Assembly. Deep-dive into how Docker containers actually work by  (487,383 stars)
+- [[public-apis-public-apis]] — Hundreds of free APIs across 50+ categories. Each entry has: auth type, HTTPS indicator, CORS support flag. Find free weather, finance, geocoding, or stock market APIs for projects without signing up  (420,163 stars)
 - [[openclaw-openclaw]] — Cross-platform: macOS, Windows, Linux. 5400+ community skills (and growing). Personal AI assistant with full data privacy. (351,825 stars)
+- [[trimstray-the-book-of-secret-knowledge]] — A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.. (220,202 stars)
 - [[ultraworkers-claw-code]] — Rust-powered for speed and low memory footprint. Built on oh-my-codex framework. High-performance coding agent for large codebases. (177,561 stars)
-- [[f-prompts.chat]] — Thousands of curated prompts across categories (writing, coding, business, creative). Multi-model support: ChatGPT, Claude, Gemini, Llama. Find tested prompts for specific tasks before writing from scratch. (159,538 stars)
+- [[f-prompts.chat]] — Thousands of curated prompts across categories (writing, coding, business, creative). Multi-model support: ChatGPT, Claude, Gemini, Llama. Find tested prompts for specific tasks before writing from sc (159,538 stars)
 - [[f-prompts-chat]] — 157k+ stars — massive community traction. Cross-platform: ChatGPT, Claude, Gemini. Find effective prompts for specific tasks. (157,459 stars)
 - [[affaan-m-everything-claude-code]] — MCP server integrations. Global keyboard shortcuts. Extend Claude Code for your specific project workflow. (145,231 stars)
-- [[obra-superpowers]] — Test-Driven Development enforced: write failing test first, code before tests gets deleted. Subagent-driven development with two-stage review pipeline. Enforce TDD discipline on AI coding agents — prevent vibe-coded solutions without tests. (140,582 stars)
+- [[obra-superpowers]] — Test-Driven Development enforced: write failing test first, code before tests gets deleted. Subagent-driven development with two-stage review pipeline. Enforce TDD discipline on AI coding agents — pre (140,582 stars)
 - [[anomalyco-opencode]] — Open-source (Apache 2.0). Multi-file code editing and navigation. Self-host a coding agent on your own infrastructure. (139,382 stars)
 - [[x1xhlol-system-prompts-and-models-of-ai-tools]] — System prompts for 25+ AI coding tools. Internal tool documentation. Research AI coding tool capabilities before using one. (134,705 stars)
+- [[multica-ai-andrej-karpathy-skills]] — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's coding preferences and best practices.. (129,210 stars)
 - [[anthropics-skills]] — Standardized skill interface definition. Modular, composable skill units. Write skills that work across multiple agent platforms. (112,781 stars)
 - [[anthropics-claude-code]] — Terminal-based — works in any shell environment. Full codebase context (not just open files). Primary coding agent for daily development work. (110,954 stars)
+- [[godotengine-godot]] — Godot Engine – Multi-platform 2D and 3D game engine. Built with C++. (110,684 stars)
 - [[microsoft-markitdown]] — Converts: PDF, PPTX, DOCX, XLSX, images, audio, HTML, CSV, JSON, XML, ZIP. Image OCR and audio transcription built-in. Convert office documents to Markdown for LLM context ingestion. (105,940 stars)
 - [[shubhamsaboo-awesome-llm-apps]] — 50+ application patterns documented. RAG architectures (naive, hierarchical, adaptive). Architecture reference when starting a new LLM app. (104,793 stars)
 - [[jaywcjlove-awesome-mac]] — 500+ quality-filtered macOS apps across 20+ categories. Emphasis on open-source and free software. Find native macOS alternatives to existing tools when switching platforms. (101,702 stars)
 - [[openai-whisper]] — Multilingual transcription (100+ languages). Strong noise robustness. Meeting transcription and summarization. (97,341 stars)
+- [[garrytan-gstack]] — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, PM, and engineering team.. (96,183 stars)
 - [[github-spec-kit]] — Spec templates for features, APIs, and system designs. Spec validation and consistency checking. Write a detailed feature spec before letting an agent implement it. (87,471 stars)
+- [[syncthing-syncthing]] — Open Source Continuous File Synchronization. Built with Go. (83,992 stars)
 - [[sherlock-project-sherlock]] — Searches 400+ social networks for a given username. CLI tool — single command to scan all platforms. OSINT research: find someone's social media footprint from a single username. (80,871 stars)
+- [[mattpocock-skills]] — Skills for Real Engineers. Straight from my .claude directory.. (80,741 stars)
 - [[msitarzewski-agency-agents]] — 48+ specialized agents across domains (dev, marketing, content, SEO). Frontend wizard, Reddit community manager, social media agents. Deploy a virtual marketing team using specialized AI agents. (79,133 stars)
+- [[stirling-tools-stirling-pdf]] — #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere. Built with Java. (78,730 stars)
 - [[karpathy-autoresearch]] — Fully autonomous research loop: hypothesize → experiment → analyze → iterate. Single-GPU optimized (nanochat scale). Run autonomous ML research experiments overnight. (71,255 stars)
 - [[unslothai-unsloth]] — 2x faster fine-tuning, 60% less VRAM usage. Web UI for training (Unsloth Studio). Fine-tune open-source models on custom datasets without a cluster. (61,289 stars)
 - [[nextlevelbuilder-ui-ux-pro-max-skill]] — 161 reasoning rules for design decisions. 67 distinct UI styles (minimal, brutalist, corporate, etc.). Generate production-ready UI components from descriptions. (61,109 stars)
 - [[bytedance-deer-flow]] — Long-horizon task support (minutes to hours). Sandboxed execution (safe code running). Research tasks that require browsing, analyzing, and synthesizing. (59,211 stars)
+- [[pi-hole-pi-hole]] — A black hole for Internet advertisements. Built with Shell. (58,602 stars)
 - [[666ghj-mirofish]] — Swarm intelligence algorithms for prediction. Fish schooling behavior simulation. Apply swarm intelligence to stock market prediction. (54,399 stars)
 - [[paperclipai-paperclip]] — Agent orchestration for autonomous business operations. Task routing and assignment to specialized agents. Run autonomous customer support with AI agents handling tickets. (52,618 stars)
+- [[coollabsio-coolify]] — An open-source, self-hostable PaaS that gives you the experience of Heroku, Netlify, or Vercel — but on your own infrastructure. You connect any SSH-accessible server (VPS, bare metal, Raspberry Pi),  (52,600 stars)
 - [[flowiseai-flowise]] — Visual drag-and-drop agent builder. 100+ integrations (LLMs, tools, databases, APIs). Rapidly prototype agent workflows visually before coding them. (51,847 stars)
+- [[jellyfin-jellyfin]] — The Free Software Media System - Server Backend & API. Built with C#. (51,568 stars)
 - [[gsd-build-get-shit-done]] — Meta-prompting templates for consistent agent behavior. Context engineering patterns for optimal LLM input. Structure prompts for consistent agent output quality. (51,555 stars)
 - [[thedotmack-claude-mem]] — Automatic session capture: code changes, decisions, errors, fixes. Structured memory persistence across sessions. Make Claude remember what it did in previous sessions on the same project. (51,187 stars)
 - [[tauricresearch-tradingagents]] — Multi-agent debate: analyst, trader, risk manager, portfolio manager. Role-based agent specialization for financial decisions. Build multi-agent trading systems with specialized roles. (49,981 stars)
@@ -69,6 +78,7 @@
 - [[tw93-pake]] — One command to convert any URL to desktop app. ~5MB bundle size (vs ~100MB Electron). Wrap web tools (Streamlit dashboards, n8n UIs) as native desktop apps. (47,730 stars)
 - [[voltagent-awesome-design-md]] — DESIGN.md files from real brand design systems. Covers: typography, color, spacing, components, interactions. Drop a DESIGN.md into a project to give the AI agent design constraints. (47,055 stars)
 - [[ruvnet-ruview]] — Human pose estimation via WiFi signals (no camera needed). Works through walls and obstacles. Privacy-preserving occupancy detection in buildings. (46,524 stars)
+- [[bevyengine-bevy]] — A refreshingly simple data-driven game engine built in Rust. Built with Rust. (46,066 stars)
 - [[voltagent-awesome-openclaw-skills]] — 5,400+ skills catalogued. Categorized by domain and capability. Find existing skills before building new ones. (44,949 stars)
 - [[chenglou-pretext]] — Pixel-accurate text measurement. Line break and word wrap calculation. Build custom text editors with precise layout. (43,375 stars)
 - [[ccxt-ccxt]] — 100+ cryptocurrency exchanges via one API. Unified interface: same code works on any exchange. Build trading bots that work across multiple exchanges with one codebase. (41,826 stars)
@@ -80,13 +90,16 @@
 - [[nousresearch-hermes-agent]] — Self-improving: learns from past mistakes. OpenClaw foundation (interoperable with other OpenClaw tools). Long-term projects where you want the agent to remember your preferences. (35,296 stars)
 - [[d4vinci-scrapling]] — Adaptive element matching (handles site changes). Single request to full crawl support. Build resilient web scrapers for wiki source collection. (35,036 stars)
 - [[tabbyml-tabby]] — Self-hosted code completion and chat. No data sent to external servers. Deploy an AI coding assistant without sending code to external APIs. (33,411 stars)
+- [[microsoft-graphrag]] — A modular graph-based Retrieval-Augmented Generation (RAG) system. Built with Python. (32,987 stars)
 - [[ruvnet-ruflo]] — Multi-agent workflow orchestration. Visual workflow builder. Build multi-agent pipelines for complex tasks. (31,502 stars)
 - [[hkuds-cli-anything]] — Universal CLI wrapper for any software. Agent-native interface design. Make legacy GUI tools accessible to AI agents. (30,413 stars)
 - [[zhulinsen-daily_stock_analysis]] — Multi-market: A-shares, H-shares, US stocks. Real-time news integration. Automated daily stock analysis with LLM insights. (29,614 stars)
 - [[hesamsheikh-awesome-openclaw-usecases]] — Real-world OpenClaw use cases. Community-contributed examples. Find inspiration for what to build with AI agents. (29,481 stars)
 - [[vercel-labs-agent-browser]] — Rust-based browser automation. CLI interface for agent consumption. Automate web research tasks with AI agents. (28,919 stars)
+- [[nanocoai-nanoclaw]] — A lightweight alternative to OpenClaw that runs in containers for security.. (28,850 stars)
+- [[hmbown-deepseek-tui]] — Coding agent for DeepSeek models that runs in your terminal. (28,656 stars)
 - [[sipeed-picoclaw]] — Go-based for speed and small binary size. Deploy anywhere (server, edge, embedded). Deploy agents on edge devices or low-resource servers. (28,081 stars)
-- [[gitroomhq-postiz-app]] — Multi-platform scheduling: X, Bluesky, Mastodon, Discord, Facebook, Instagram, LinkedIn, TikTok. AI-enhanced content optimization and scheduling. Self-host social media scheduling for personal brand or team without monthly SaaS fees. (27,933 stars)
+- [[gitroomhq-postiz-app]] — Multi-platform scheduling: X, Bluesky, Mastodon, Discord, Facebook, Instagram, LinkedIn, TikTok. AI-enhanced content optimization and scheduling. Self-host social media scheduling for personal brand o (27,933 stars)
 - [[qwibitai-nanoclaw]] — Container-isolated agent execution. MCP server integration. Run untrusted agent code in isolated containers. (27,192 stars)
 - [[onyx-dot-app-onyx]] — Works with every LLM provider. Connects to documents, Slack, GitHub, Confluence. Build an AI assistant that knows your company's documentation. (26,830 stars)
 - [[vercel-labs-agent-skills]] — Official Vercel skills. Deployment and infrastructure focused. Deploy projects to Vercel via agent commands. (24,981 stars)
@@ -100,58 +113,85 @@
 - [[mvanhorn-last30days-skill]] — Multi-platform: Reddit, X, YouTube, HN, Polymarket. Last-30-days time window. Research trending topics across platforms. (21,258 stars)
 - [[virattt-dexter]] — SEC filing analysis. Earnings call transcription and analysis. Automate fundamental analysis of public companies. (21,250 stars)
 - [[tobi-qmd]] — Fast full-text search across local files. Relevance ranking. Search across documentation and meeting notes. (21,244 stars)
+- [[iv-org-invidious]] — Invidious is an alternative front-end to YouTube. Built with Crystal. (20,031 stars)
 - [[k-dense-ai-scientific-agent-skills]] — Research and science focused skills. Data analysis, experiment design. Automate scientific data analysis workflows. (18,287 stars)
-- [[czlonkowski-n8n-mcp]] — 1,396 nodes covered (812 core + 584 community), 87% docs coverage. 2,709 workflow templates with 100% metadata coverage. Build n8n workflows conversationally: describe what you want, agent creates and validates it. (17,714 stars)
+- [[jimliu-baoyu-skills]] — Baoyu skills collection for Claude Code. (18,205 stars)
+- [[heygen-com-hyperframes]] — Write HTML. Render video. Built for agents.. (18,092 stars)
+- [[xming521-weclone]] — One-stop solution for creating your AI twin from chat history. Fine-tune LLMs.. (17,887 stars)
+- [[czlonkowski-n8n-mcp]] — 1,396 nodes covered (812 core + 584 community), 87% docs coverage. 2,709 workflow templates with 100% metadata coverage. Build n8n workflows conversationally: describe what you want, agent creates and (17,714 stars)
 - [[hkuds-deeptutor]] — Personalized learning paths. Adaptive teaching style. Learn new technologies with an AI tutor that adapts to your pace. (17,481 stars)
 - [[panniantong-agent-reach]] — Multi-channel: Twitter, Reddit, YouTube, GitHub. Search and read across platforms. Research topics across multiple web platforms. (17,204 stars)
-- [[pbakaus-impeccable]] — 7 design reference modules covering typography through UX writing. 18 slash commands: /audit, /critique, /polish, /distill, /clarify, /harden, /bolder, /quieter, /o.... Audit AI-generated UI code for accessibility violations and anti-patterns before shipping. (17,096 stars)
+- [[pbakaus-impeccable]] — 7 design reference modules covering typography through UX writing. 18 slash commands: /audit, /critique, /polish, /distill, /clarify, /harden, /bolder, /quieter, /o.... Audit AI-generated UI code for  (17,096 stars)
 - [[karpathy-llm-council]] — Multi-model collaboration. Perspective diversity. Get diverse perspectives on complex questions. (16,988 stars)
 - [[voltagent-awesome-claude-code-subagents]] — 100+ specialized subagents. Domain-specific configurations. Find a specialized agent for a project task. (16,660 stars)
 - [[rightnow-ai-openfang]] — Agent runtime with memory and tools. Scheduling and lifecycle management. Deploy production agent workloads on a purpose-built OS. (16,592 stars)
+- [[docusealco-docuseal]] — Open source DocuSign alternative. Create, fill, and sign digital documents. Built with Ruby. (16,522 stars)
 - [[opendataloader-project-opendataloader-pdf]] — Structured PDF extraction (text, tables, images). Layout preservation. Extract tables from PDF reports for analysis. (16,307 stars)
 - [[qwenlm-qwen-agent]] — Function calling with parallel tool invocation (default). MCP support for external tool servers (SQLite, filesystem, etc.). Build production agent applications on open-source Qwen models. (15,929 stars)
 - [[topoteretes-cognee]] — 6-line setup for basic memory. Multiple storage backends (vector DB, graph, etc.). Give any agent persistent memory across sessions. (15,873 stars)
-- [[lyogavin-airllm]] — 70B on 4GB GPU, 405B on 8GB GPU — no quantization needed. No quality loss: no pruning, distillation, or aggressive compression. Run 70B+ models on a work laptop with 4GB GPU for offline/private inference. (15,150 stars)
+- [[lyogavin-airllm]] — 70B on 4GB GPU, 405B on 8GB GPU — no quantization needed. No quality loss: no pruning, distillation, or aggressive compression. Run 70B+ models on a work laptop with 4GB GPU for offline/private infere (15,150 stars)
 - [[tradingview-lightweight-charts]] — High-performance HTML5 canvas charts. Candlestick, line, area chart types. Build custom trading dashboards with professional charts. (15,088 stars)
-- [[voltagent-awesome-agent-skills]] — Official teams: Anthropic (Office Suite, web-artifacts-builder, MCP builder), Microsoft (133+ Azu.... Infrastructure: Cloudflare/Netlify deployment, Supabase/Neon/ClickHouse DB skills, DuckDB (attach.... Look up platform-specific installation paths when setting up skills on a new agent. (14,722 stars)
+- [[voltagent-awesome-agent-skills]] — Official teams: Anthropic (Office Suite, web-artifacts-builder, MCP builder), Microsoft (133+ Azu.... Infrastructure: Cloudflare/Netlify deployment, Supabase/Neon/ClickHouse DB skills, DuckDB (attach. (14,722 stars)
 - [[everyinc-compound-engineering-plugin]] — Compound workflow chaining. Shared context across tasks. Chain multiple coding tasks into a single workflow. (14,140 stars)
 - [[elder-plinius-cl4r1t4s]] — System prompts from 25+ AI products. ChatGPT, Claude, Gemini, Cursor, Devin. Study how major AI companies structure system prompts. (14,139 stars)
+- [[google-labs-code-design.md]] — A format specification for describing a visual identity to coding agents. DESIGN.md files.. (13,561 stars)
 - [[hkuds-ai-trader]] — Fully autonomous trading. Agent-native architecture. Deploy fully autonomous trading agents. (13,276 stars)
+- [[hunxbyts-ghosttrack]] — Useful tool to track location or mobile number. (13,170 stars)
+- [[browser-use-browser-harness]] — Browser Harness: Self-healing harness that enables LLMs to complete any task.. (12,575 stars)
 - [[vaibhavs10-insanely-fast-whisper]] — 10-100x faster than vanilla Whisper. Batching and Flash Attention optimization. Transcribe audio files at blazing speed. (12,430 stars)
 - [[rowboatlabs-rowboat]] — Persistent memory across sessions. Learning and preference adaptation. Deploy an AI coworker that remembers past interactions. (12,243 stars)
+- [[jackyzha0-quartz]] — A fast, batteries-included static-site generator that transforms Markdown content into websites.. Built with TypeScript. (12,161 stars)
 - [[nofxaios-nofx]] — Multi-market trading assistance. USDC payment instead of API keys. Access AI trading assistance without managing API keys. (11,869 stars)
+- [[lsdefine-genericagent]] — Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control.. (11,324 stars)
 - [[marp-team-marp]] — Markdown to slide deck conversion. VS Code extension. Create presentations from Markdown quickly. (11,251 stars)
 - [[aiming-lab-autoresearchclaw]] — Idea-to-paper autonomous pipeline. Literature review automation. Generate research papers from initial ideas. (11,067 stars)
 - [[alirezarezvani-claude-skills]] — 232+ skills across domains. Multi-platform compatibility. Find pre-built skills for specific development tasks. (10,782 stars)
+- [[moonshotai-kimi-k2]] — Kimi K2 is the large language model series developed by Moonshot AI team. (10,770 stars)
 - [[youmind-openlab-awesome-nano-banana-pro-prompts]] — 10,000+ curated prompts. 16 language support. Study prompt patterns for AI image generation. (10,707 stars)
+- [[refactoringhq-tolaria]] — Desktop app to manage markdown knowledge bases. (10,629 stars)
 - [[teng-lin-notebooklm-py]] — Python API for NotebookLM. Document upload and Q&A. Query NotebookLM programmatically from scripts. (10,375 stars)
 - [[minimax-ai-skills]] — Official MiniMax skills. Text, image, and media generation. Generate content using MiniMax AI models. (10,226 stars)
 - [[multica-ai-multica]] — Managed agent platform. Task management and assignment. Manage coding agents as team members with proper workflows. (10,089 stars)
+- [[composiohq-awesome-codex-skills]] — A curated list of practical Codex skills for automating workflows across the Codex ecosystem.. (9,439 stars)
 - [[vectorize-io-hindsight]] — Adaptive memory retrieval. Learning from interactions. Build agents with memory that improves over time. (9,076 stars)
 - [[donchitos-claude-code-game-studios]] — 48 specialized game dev agents. 36 workflow skills. Build games with AI agent teams handling different aspects. (8,778 stars)
-- [[behisecc-awesome-claude-skills]] — Development: web-artifacts-builder, TDD skill, git worktrees, AWS CDK, Terraform, Azure DevOps, M.... Documents: docx/pdf/pptx/xlsx skills, RevealJS presentations, EPUB generation, YouTube transcript.... Find Claude-specific skills not in broader cross-platform lists. (8,264 stars)
+- [[behisecc-awesome-claude-skills]] — Development: web-artifacts-builder, TDD skill, git worktrees, AWS CDK, Terraform, Azure DevOps, M.... Documents: docx/pdf/pptx/xlsx skills, RevealJS presentations, EPUB generation, YouTube transcript. (8,264 stars)
 - [[jeffallan-claude-skills]] — 66 full-stack development skills. Frontend, backend, DevOps coverage. Extend Claude Code for full-stack development. (8,159 stars)
+- [[snouzy-workout-cool]] — Modern open-source fitness coaching platform. Create workout plans, track progress.. (7,653 stars)
+- [[tinyhumansai-openhuman]] — Your Personal AI super intelligence. Private, Simple and extremely powerful.. (7,117 stars)
 - [[garrytan-gbrain]] — Opinionated agent configuration. From YC CEO Garry Tan. Reference an opinionated agent setup from a top operator. (6,911 stars)
 - [[hkuds-openspace]] — Agent optimization framework. Self-evolving capabilities. Optimize agent performance and cost. (5,107 stars)
+- [[cocoon-ai-architecture-diagram-generator]] — Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG.. (4,996 stars)
+- [[averygan-reclip]] — Download videos from almost any website. Lightweight, self-hosted media downloader.. (4,842 stars)
 - [[hkuds-clawteam]] — Swarm intelligence for agents. One-command full automation. Deploy coordinated agent swarms for complex tasks. (4,722 stars)
 - [[campfirein-byterover-cli]] — Portable memory across agents. Persistent context. Share memory between different coding agents. (4,444 stars)
 - [[elder-plinius-g0dm0d3]] — LLM safety research. Jailbreak technique documentation. Research LLM safety boundaries. (4,409 stars)
+- [[falkordb-falkordb]] — A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix.. Built with C++. (4,405 stars)
 - [[martian-engineering-lossless-claw]] — Lossless context compression. Important information preservation. Manage long conversations without losing context. (4,256 stars)
+- [[wangzhe3224-awesome-systematic-trading]] — A curated list of insanely awesome libraries, packages and resources for systematic trading.. (4,130 stars)
 - [[kevinrgu-autoagent]] — Self-directing agent architecture. Auto-prompt engineering. Build agents that optimize their own prompts. (4,061 stars)
 - [[heilcheng-awesome-agent-skills]] — Tutorials and guides. Skills directory. Learn how to build agent skills. (3,938 stars)
 - [[voltagent-awesome-codex-subagents]] — 130+ specialized subagents. Wide domain coverage. Find pre-built subagents for Codex CLI. (3,869 stars)
 - [[uditgoenka-autoresearch]] — Goal-directed autonomous research. Iterative until completion. Research topics autonomously until a goal is met. (3,621 stars)
 - [[aiming-lab-metaclaw]] — Meta-learning agent. Adaptive behavior. Build agents that learn and evolve from conversation. (3,378 stars)
+- [[browserbase-skills]] — Browserbase's official collection of agent skills to access the web.. (3,224 stars)
 - [[jon-becker-prediction-market-analysis]] — Prediction market data collection. Polymarket integration. Analyze prediction market trends and patterns. (2,900 stars)
+- [[caamer20-telegram-drive]] — Turn your Telegram account into an unlimited, secure cloud storage drive. Open source.. (2,832 stars)
 - [[polymarket-agents]] — Python-based agent framework. CLI tool for easy deployment. Study autonomous agent architecture for real-world financial decisions. (2,789 stars)
+- [[heliomarpm-udemy-downloader-gui]] — A desktop application for downloading Udemy Courses. (2,693 stars)
+- [[einsia-openchronicle]] — Open Chronicle - AI-powered news and content aggregation. (2,622 stars)
 - [[y-research-sbu-quantagent]] — Quantitative trading agents. Strategy research framework. Research agent-based quantitative trading strategies. (2,285 stars)
 - [[alchaincyf-hermes-agent-orange-book]] — Comprehensive Hermes Agent guide. Chinese language. Learn Hermes Agent from beginner to expert (Chinese documentation). (2,203 stars)
+- [[cosmicstack-labs-mercury-agent]] — Soul-driven AI agent with permission-hardened tools, token budgets, and multi-chain support.. (2,181 stars)
 - [[kyrolabs-awesome-agents]] — Curated AI agent directory. Frameworks, tools, applications. Discover AI agent frameworks and tools. (2,160 stars)
 - [[miolini-autoresearch-macos]] — macOS optimized. Single-GPU research. Run autonomous research on macOS with Apple Silicon. (1,936 stars)
+- [[openai-gpt-5-coding-examples]] — GPT-5 coding examples. (1,884 stars)
+- [[alvinreal-awesome-autoresearch]] — A curated list of autonomous improvement loops, research agents, and autoresearch tools.. (1,860 stars)
 - [[breferrari-obsidian-mind]] — Agent persistent memory via Obsidian. Multi-agent support. Give coding agents persistent memory through Obsidian vaults. (1,833 stars)
 - [[mgechev-skills-best-practices]] — Skill writing best practices. LLM-based validation. Write high-quality agent skills following best practices. (1,787 stars)
 - [[hkuds-vibe-trading]] — Personal trading agent. Autonomous decisions. Deploy a personal AI trading agent. (1,727 stars)
 - [[tradesdontlie-tradingview-mcp]] — TradingView integration via MCP. Chart analysis with AI. Get AI analysis of TradingView charts. (1,725 stars)
+- [[afar1-fieldtheory-cli]] — Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI.. (1,713 stars)
 - [[calesthio-openmontage]] — 12 video production pipelines. 52 production tools. Automate video production with AI agents. (1,551 stars)
 - [[nikilster-clawflows]] — Prebuilt agent workflows. OpenClaw extensions. Deploy pre-built agent workflows. (1,511 stars)
 - [[nousresearch-hermes-agent-self-evolution]] — Evolutionary optimization for agents. Self-improving prompts and skills. Optimize agent performance through evolution. (1,494 stars)
@@ -159,36 +199,52 @@
 - [[outsourc-e-hermes-workspace]] — Web UI for Hermes Agent. Chat, terminal, memory, skills. Access Hermes Agent through a web interface. (1,225 stars)
 - [[minimax-ai-cli]] — Text, image, video, speech, music generation. MiniMax AI CLI. Generate multi-modal content via CLI. (1,195 stars)
 - [[0xnyk-awesome-hermes-agent]] — Hermes Agent ecosystem directory. Skills, tools, integrations. Discover Hermes Agent extensions and tools. (1,188 stars)
-- [[rohitg00-awesome-claude-code-toolkit]] — 176 plugins including pro-workflow, gstack, claude-cost-optimizer, AgentLint. 135 agent personas: language experts (25 languages), cloud architects, security auditors, SREs. Install pro-workflow for self-correcting memory + parallel worktree development. (1,137 stars)
+- [[zarazhangrui-beautiful-html-templates]] — A library of HTML slide templates designed so any coding agent can pick the right one.. (1,188 stars)
+- [[rohitg00-awesome-claude-code-toolkit]] — 176 plugins including pro-workflow, gstack, claude-cost-optimizer, AgentLint. 135 agent personas: language experts (25 languages), cloud architects, security auditors, SREs. Install pro-workflow for s (1,137 stars)
 - [[mattprusak-autoresearch-genealogy]] — Genealogy research prompts. Vault templates. Research family history with AI assistance. (1,081 stars)
 - [[rohunvora-x-research-skill]] — X/Twitter research via agent. Thread following. Research topics on X/Twitter via agent. (1,057 stars)
 - [[x-research-skill]] — Twitter/X search via API. Thread following and extraction. Research what's trending in AI/ML community. (1,043 stars)
+- [[mvanhorn-printing-press-library]] — Official library of CLIs generated by the CLI Printing Press. Endorsed, tested.. (1,001 stars)
 - [[hyperbrowserai-hyperbrowser-app-examples]] — Browser automation examples. Web scraping patterns. Build web scrapers for wiki source collection. (869 stars)
 - [[rohitg00-skillkit]] — Portable skill management. Cross-platform translation. Install and manage skills across different agents. (765 stars)
+- [[openclaw-discrawl]] — CLI for Discord with SQLite backend. (738 stars)
+- [[kunchenguid-no-mistakes]] — git push no-mistakes. (685 stars)
 - [[steipete-discrawl]] — Discord CLI. SQLite local storage. Search Discord message history locally. (618 stars)
 - [[leoyeai-openclaw-auto-dream]] — Automatic memory consolidation. Sleep-like memory processing. Consolidate agent memories during idle time. (587 stars)
 - [[jau123-meigen-ai-design-mcp]] — Local AI design via MCP. Design tool integration. Generate designs locally via AI agent. (575 stars)
+- [[stemdeckapp-stemdeck]] — Stem extraction platform for musicians, producers and hobbyists.. (494 stars)
 - [[marp-team-awesome-marp]] — Marp themes and plugins. Presentation tools. Find Marp themes for presentations. (441 stars)
+- [[beever-ai-beever-atlas]] — Your First LLM-Wiki Conversation Knowledge Base. (318 stars)
 - [[ksimback-hermes-ecosystem]] — Hermes ecosystem map. Visual tool directory. Navigate the Hermes Agent ecosystem visually. (190 stars)
 - [[gianfrancopiana-openclaw-autoresearch]] — Autonomous experiment loops. OpenClaw plugin. Run autonomous experiment loops. (166 stars)
 - [[openclaw-starter-kit]] — Multi-model orchestration (fallback chains). Self-healing error recovery. Build fault-tolerant agent pipelines. (156 stars)
 - [[zach-highley-openclaw-starter-kit]] — Multi-model fallback chains. Self-healing error recovery. Build fault-tolerant agent pipelines. (156 stars)
 - [[minara-ai-skills]] — AI CFO skills. Financial management. Manage personal finances with AI assistance. (154 stars)
+- [[0xnyk-xint]] — X Intelligence CLI — search, monitor, analyze, and engage on X/Twitter. TypeScript.. Built with TypeScript. (142 stars)
 - [[riley-coyote-polyclaude]] — Multi-perspective analysis. Parallel cognitive threads. Get multi-perspective analysis on complex decisions. (140 stars)
 - [[siddsachar-thoth]] — Local-first AI. Privacy-focused. Run a privacy-focused AI assistant locally. (128 stars)
 - [[clawvader-tech-hermes-telegram-miniapp]] — Telegram Mini App for Hermes. Terminal-style interface. Manage Hermes Agent from Telegram. (119 stars)
 - [[nicholasspisak-second-brain]] — LLM-maintained knowledge base. Obsidian integration. Build a self-maintaining knowledge base in Obsidian. (116 stars)
 - [[ansub-wiki-os]] — Web-based knowledge browser. Search, graphs, browsing. Browse personal knowledge bases via web UI. (105 stars)
 - [[brave-brave-search-skills]] — Brave Search integration. Official Brave skills. Search the web via Brave from AI agents. (98 stars)
+- [[doriandarko-kimi-2-6-code]] — Terminal-native coding agent powered by Moonshot Kimi K2.6.. (76 stars)
 - [[esaradev-icarus-plugin]] — Agent self-memory. Replacement model training. Train replacement models from agent experience. (54 stars)
+- [[vibeforge1111-codex-visual-builder-guild]] — Free H70-C+ Spark Skill Graphs guild for Codex visual builder loops.. (41 stars)
+- [[pcinkusz-hermes-achievements]] — Achievement system for the Hermes Dashboard, generated from real Hermes session data.. (37 stars)
+- [[perlakay-nyc-building-history]] — NYC building history research tools. (37 stars)
+- [[ibuybooks-generative-energy]] — Generative Energy: Protecting and Restoring the Wholeness of Life. (24 stars)
+- [[chongdashu-cc-kimi-k2-thinking-prompts]] — Prompts for Claude Code to use with Moonshot's Kimi K2 Thinking Model.. (13 stars)
+- [[vicnaum-parallel-cities]] — Interactive world map for finding cities on the same latitude. (13 stars)
 - [[corrob-law-of-one-study]] — Law of One study companion. Cross-referencing tools. Study the Law of One material with AI assistance. (9 stars)
+- [[ishan-parihar-holosim-infinite]] — Emergent world simulation game — autonomous agents, GPU-accelerated rendering.. (3 stars)
+- [[nostem-salem-study-system]] — NRC RO/SRO licensing exam study system for Salem Nuclear Generating Station.. (1 stars)
 
 ## Comparisons
 
 ## Queries — 5 use-case guides
 
-- [[building-a-trading-bot]] — Recommended stack and architecture decisions for building an AI-powered trading bot
-- [[building-a-personal-knowledge-base]] — How to build an AI-maintained personal knowledge base with Obsidian, Cognee, or custom tools
-- [[setting-up-an-ai-coding-agent-workflow]] — Setting up a productive AI coding agent workflow with skills, subagents, and TDD methodology
-- [[building-a-web-scraping-pipeline]] — Building resilient web scraping pipelines with adaptive matching, browser automation, and managed platforms
-- [[creating-agent-skills-and-plugins]] — How to create, package, and distribute agent skills using the Anthropic spec and community best practices
+- [[building-a-personal-knowledge-base]] — Synthesized answer for: "How would I build an AI-maintained personal knowledge base using starred repos?"
+- [[building-a-trading-bot]] — Synthesized answer for: "How would I build an AI-powered trading bot using starred repos?"
+- [[building-a-web-scraping-pipeline]] — Synthesized answer for: "How would I build a web scraping pipeline using starred repos?"
+- [[creating-agent-skills-and-plugins]] — Synthesized answer for: "How would I create agent skills or plugins using starred repos?"
+- [[setting-up-an-ai-coding-agent-workflow]] — Synthesized answer for: "How would I set up a productive AI coding agent workflow using starred repos?"

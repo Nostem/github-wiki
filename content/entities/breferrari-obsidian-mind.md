@@ -32,8 +32,6 @@ An Obsidian vault that gives AI coding agents persistent memory. Works with Clau
 1,833 stars.
 
 ## Related
-- [[anthropics-claude-code]]
-- [[obra-superpowers]]
 
 
 ## Concepts

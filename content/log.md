@@ -161,3 +161,10 @@
 - Created 56 new entity pages with descriptions from READMEs/GitHub metadata
 - Top new repos by stars: trimstray/the-book-of-secret-knowledge (220k★), multica-ai/andrej-karpathy-skills (129k★), godotengine/godot (110k★), garrytan/gstack (96k★), syncthing/syncthing (83k★), mattpocock/skills (80k★), Stirling-Tools/Stirling-PDF (78k★), pi-hole/pi-hole (58k★), jellyfin/jellyfin (51k★), bevyengine/bevy (46k★)
 - Updated index.md: 234 pages (203 entities + 26 concepts + 5 queries)
+
+## [2026-05-15] ingest | No new stars
+- Fetched all 198 starred repos via GitHub API (2 pages)
+- Compared against 201 existing entity pages (matched via github frontmatter)
+- 0 new repos found
+- 3 unstarred repos noted: f-prompts/chat, qwibitai/nanoclaw, steipete/discrawl
+- Total pages: 234 (203 entities + 26 concepts + 5 queries)

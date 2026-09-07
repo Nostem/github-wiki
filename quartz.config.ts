@@ -12,9 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: undefined,
-    },
+    analytics: null,
     locale: "en-US",
     baseUrl: "nostem.github.io/github-wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
